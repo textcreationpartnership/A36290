@@ -1,0 +1,946 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The undoubted art of thriving wherein is shewed : 1. That a million L. sterling money, or more if need be, may be raised for propogating the trade of the nation, &amp;c. without any kind of prejudice to the leiges, but on the contrair to their great vtility and advantage, 2. How the Indian and African Company may propogat [sic] their trade, and that trade and manufacturers of all sorts may by encouraged to the honour, strength and wealth of the nation, 3. How every one according to his quality, may live comfortably and happily : concluding with several thoughts tuching [sic] the management of publick concerns.</title>
+            <author>Donaldson, James, fl. 1697-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36290</idno>
+            <idno type="STC">Wing D1856</idno>
+            <idno type="STC">ESTC R5321</idno>
+            <idno type="EEBO-CITATION">12986305</idno>
+            <idno type="OCLC">ocm 12986305</idno>
+            <idno type="VID">96190</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96190)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 736:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The undoubted art of thriving wherein is shewed : 1. That a million L. sterling money, or more if need be, may be raised for propogating the trade of the nation, &amp;c. without any kind of prejudice to the leiges, but on the contrair to their great vtility and advantage, 2. How the Indian and African Company may propogat [sic] their trade, and that trade and manufacturers of all sorts may by encouraged to the honour, strength and wealth of the nation, 3. How every one according to his quality, may live comfortably and happily : concluding with several thoughts tuching [sic] the management of publick concerns.</title>
+                  <author>Donaldson, James, fl. 1697-1713.</author>
+               </titleStmt>
+               <extent>[8], 135, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Reid,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata: p. [1] at end.</note>
+                  <note>Dedication signed: Ja. Donaldson.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Scotland Trading to Africa and the Indies.</term>
+               <term>Legal tender --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96190:1"/>
+            <pb facs="tcp:96190:1"/>
+            <p>The Undoubted ART OF THRIVING; Wherein is ſhewed.
+<list>
+                  <item>1. <hi>That a Million L. Sterling Money, or more if need be may be raiſed for Propogating the Trade of the Nation,</hi> &amp;c. <hi>Without any kind of prejudice to the Leiges, but on the Contrair to their great <g ref="char:V">Ʋ</g>tility and Advantage.</hi>
+                  </item>
+                  <item>2. <hi>How the</hi> Indian <hi>and</hi> African <hi>Company may Propogat their Trade, and that Trade and Manufactures of all ſorts may be encouraged to the Honour, Strength and Wealth of the Nation.</hi>
+                  </item>
+                  <item>3. <hi>How every one according to his quality, may Live Comfortably and Happily. Concluding with ſeveral thoughts tuching the Man<g ref="char:EOLhyphen"/>agement of Publick Concerns.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>EDINBURGH, <hi>Printed by</hi> John Reid, 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96190:2"/>
+            <pb facs="tcp:96190:2"/>
+            <head>To His GRACE, JAMES Duke of QUEENS<g ref="char:EOLhyphen"/>BERRY, His Majeſty's high Commiſſioner to the Seſſion of PARLIAMENT, Comencing on the <hi>21ſt.</hi> of <hi>MAY</hi> 1700. And all the Honourable Mem<g ref="char:EOLhyphen"/>bers in Parliament Aſſembled.</head>
+            <opener>
+               <salute>MOST HONOURABLE,</salute>
+            </opener>
+            <p>
+               <hi>Some time ago, being by the Pro<g ref="char:EOLhyphen"/>vidence of GOD, Reduced to a low condition, like a Man that had fallen from a precipice.</hi> I <hi>began to look about, and to think by what means to Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſcend; for that end ſtrearch<g ref="char:EOLhyphen"/>ed my Invention to the utmoſt extent, I took a vew of every thing upon which I could fix mine eye. I examined the con<g ref="char:EOLhyphen"/>duct of all ſorts of perſons, both as to publick and private concerns, in order to find ſome footſteps by which to climb up.</hi>
+               <pb facs="tcp:96190:3"/> 
+               <hi>in my my ſurvey of things, found ſever<g ref="char:EOLhyphen"/>als that I thought might be Improven. And amongſt many others, this project of making Nots to paſs for currant money occured; as did likewiſe ſeveral others of no leſs moment, which I could have expanded on this occaſion, were it not that too many projects at once, may ra<g ref="char:EOLhyphen"/>ther obſtruct than advance the proce<g ref="char:EOLhyphen"/>cution of any; And alſo that this one may be ſufficient at the time, if it take effect, which if it do not I ſhall hencforth be diſ<g ref="char:EOLhyphen"/>couraged to attempt any thing of the like Nature.</hi>
+            </p>
+            <p>
+               <hi>After I had made ſeveral diſcoveryes, as is ſaid, New difficulties occured, as to the manner of giving them vent. The concealing matters of ſo great Importance I thought a Crime: On the other hand, fearing it was in vain for me to propoſe any thing of this kind having had ſo bad ſucceſs in my own Concerns none would re<g ref="char:EOLhyphen"/>lay on any Overture I could make concern<g ref="char:EOLhyphen"/>ing the proſperity of others; I ſtrugled long between theſe difficulties; However at laſt I reſolved to put in form one of my</hi>
+               <pb facs="tcp:96190:3"/> 
+               <hi>projects, and ſhew it to ſome who could adviſe me how to proceed therein; And accordingly made a ſhort draught of this Note-Project, as that which was moſt like<g ref="char:EOLhyphen"/>ly to take effect, I ſhew'd it to ſome of the Honourable Members of Parliament. But the draught being ſhort, and not ſo diſtinct, as what is here deduced, nor the Foundation on which it was propoſed to be ſetled, ſo ſolid as what is now pro<g ref="char:EOLhyphen"/>poſed, it was thought there might be ſe<g ref="char:EOLhyphen"/>veral difficulties in it, wherefore I laid it aſide at that time.</hi>
+            </p>
+            <p>
+               <hi>The next Effort I made, was an Eſſey upon the manner of</hi> Husbandry, <hi>in which I thought moſt People of this Kingdom Commited Condſiderable miſ<g ref="char:EOLhyphen"/>takes, tho this was not received with that Approbation, which I humbly con<g ref="char:EOLhyphen"/>ceive it deſerveth, yet it found acceptace beyond my expectation, for it is not to be Imagioned that upon an overly Glance, one can have the ſame Sentiments as an o<g ref="char:EOLhyphen"/>ther that has made it his buſineſs to conſider it throughly.</hi>
+            </p>
+            <p>
+               <hi>Now (I hope in a good time,) I Reſume</hi>
+               <pb facs="tcp:96190:4"/> 
+               <hi>my Project concerning the Notes. The Kingdom at preſent being drained of Money, by reaſon of the great quantities of it that has been given for Corn from Forraign parts theſe ſeveral years paſt, and likewiſe People ſeem now Inclined to Cultivat Trade and Manufactures more than formerly, which certainly makes a project of this nature more Neceſſar then at other tims; Wherfore in all Humility I preſent the following Sheets to Your</hi> Grace, Lordſhips <hi>and</hi> Honours; <hi>The firſt part of which Reſpects the Circulating of Notes may perhaps be ſome what dark at firſt veiw, yet after peruſal and the ſe<g ref="char:EOLhyphen"/>rious thoughts of any perſon of Tolerable Capacity, I think it will be plain to a Demonſtration. I have conſidered it over and over many tims, and according to what ſence</hi> GOD <hi>has given me. I think nothing can be plainer, and doubt not in the leaſt to Solve all manner of objecti<g ref="char:EOLhyphen"/>ons that can be made againſt it. As to what followes in the other two Chapters is plain at firſt view, and will not be dif<g ref="char:EOLhyphen"/>ficult to determine what is fit to be done therein.</hi>
+            </p>
+            <pb facs="tcp:96190:4"/>
+            <p>
+               <hi>Some years ago I Remember, there was an overture made to the Parliament, for the Streicking a vaſt number of Notes or Talies, but the manner of Circulating them was keep'd a ſecret, till the Author ſhould have the promiſe of a Conſider<g ref="char:EOLhyphen"/>able Reward; tho it is but reaſonable that a Man ſhould be Rewarded for his good ſervice, not only with Reſpect to the pains be is at. But likewiſe with Re<g ref="char:EOLhyphen"/>ſpect to the benefit others receive by his Good Offices: Yet I have made no ſuch Preliminary overture, leaving that In<g ref="char:EOLhyphen"/>teirly to Your Wiſdoms Diſcration.</hi>
+            </p>
+            <p>
+               <hi>As when an Artificer has finiſhed an Inſtrument of Muſick, with all imaginabl exactneſs, it may ſuffer the bending or unbending of ſeveral Strings, before it can be fited to a particular Tune or Air. In like maner the following project, may perhaps receive ſome inconſiderable A<g ref="char:EOLhyphen"/>mendiments when it comes to be put in practice, which till then cannot be ob<g ref="char:EOLhyphen"/>ſerved. Yet I humbly Conceive there is no material part wanting to make it Compleat; However it be, my thoughts</hi>
+               <pb facs="tcp:96190:5"/> 
+               <hi>of it to be ſo, has induced me to lay it be<g ref="char:EOLhyphen"/>fore Your Wiſdoms, who after Conſidering of it throughly, can eoſily give your Judg<g ref="char:EOLhyphen"/>ment therein. That GOD may give you Wiſdom, and grant a happie Iſue to this Seſſion of Parliament ſhall be the earneſt Prayer of</hi>
+            </p>
+            <closer>
+               <signed>Your Grace's, Lordſhips, and Honours, Moſt Humble and Obedient Servant Ja. Donaldſon.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:96190:5"/>
+            <head>THE Undoubted ART of THRIVING</head>
+            <p>
+               <seg rend="decorInit">T</seg>O THRIVE and to PROS<g ref="char:EOLhyphen"/>PER, Being Generally taken for one and the ſame Thing, 'twill be needleſs to Enquire into the Etimology or Signi<g ref="char:EOLhyphen"/>fication of the Verb THRIVE; But ſeeing it may be taken in a threefold Senſe, <hi>Viz.</hi> In Reſpect to the <hi>Soul, Body,</hi> and <hi>Eſtate,</hi> it's neceſſary to di<g ref="char:EOLhyphen"/>ſtinguiſh them, and to ſhew which of theſe I intend to Proſecute.</p>
+            <p>To make Proviſion for the Soul is undoubtedly the Duty as well as the intereſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of every One, And that where<g ref="char:EOLhyphen"/>in moſt People are too Remiſs; But to give publick Directions therein, is
+<pb n="2" facs="tcp:96190:6"/> that which I neither reckon my ſelf cal<g ref="char:EOLhyphen"/>led to nor qualified for.</p>
+            <p>In matters of <hi>Medicine</hi> or <hi>Phyſick.</hi> I am not acquainted: And therefore ſhan't offer to meddle in things of that Nature.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> follows, That <hi>I</hi> muſt ſay ſome thing touching the Preſervation or In<g ref="char:EOLhyphen"/>creaſe of the Eſtate, or ſay nothing at all <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in this alſo. I cannot pre<g ref="char:EOLhyphen"/>tend to much Knowledge. I would offer only things which I Humbly Conceive may be of Good Uſe, and perhaps a Foundation for ſome Good <hi>Architeck,</hi> to build a Magnificent Stru<g ref="char:EOLhyphen"/>cture upon.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> coun<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be ſuppoſed, that a Thing of this Nature can be ſo ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> firſt Draught as afterwards it may be brought <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therefore expected, the Diſcreet Reader will rather Correct than Rigidly Cenſure any thing he may find not ſo directly to the Purpoſe.</p>
+            <p>Thriving being that which we are to
+<pb n="3" facs="tcp:96190:6"/> fall about on good Earneſt? I ſhall not detain <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Render with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tedio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in<g ref="char:EOLhyphen"/>troduction, but: endeavour to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what I have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſay, in the moſt co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceiſe and plain Mannor I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an, ſo that any Perſon of Ordinary Capacity may the more eaſily comprehend the ſame, my Deſign being rather to write I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tel<g ref="char:EOLhyphen"/>ligibly than Elega<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly.</p>
+            <p>'Twas obſerved in the Entry that Thriving may be taken in a threefold-Senſe, and that it was in Matters re<g ref="char:EOLhyphen"/>lating to the Eſtate, of how that one may provide Neceſſaries for his Com<g ref="char:EOLhyphen"/>fortable Living in this World, that I undertook to proſecute.</p>
+            <p>When I ſpeak of Ways and Means how one may preſerve or increaſe his Eſtate; I hope it will not be incong<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLhyphen"/>ous to think, that at the ſame time he may be in a proſperous Condition alſo in both Soul and Body, there being no inconſiſtancy but rather a Harmony a<g ref="char:EOLhyphen"/>mongſt them all. For a Perſon mode<g ref="char:EOLhyphen"/>ratly exerciſing himſelf in the Perform<g ref="char:EOLhyphen"/>ance
+<pb n="4" facs="tcp:96190:7"/> of his lawful Employment, there<g ref="char:EOLhyphen"/>by purchaſeth things neceſſar for the Support of his Body: The Body be<g ref="char:EOLhyphen"/>ing ſupplyed with things neceſſary and imployed in moderat Exerciſes, is keept in a good Temperature and healthful Condition. The Body being in good Condition, is in Capacity to perform Duty to GOD and Man with the great<g ref="char:EOLhyphen"/>er Alacrity; and reciprocally when a Perſon with Integrity performs his duty, he may warrantably expect the Favour of GOD and Man, and a Bleſ<g ref="char:EOLhyphen"/>ſing upon his Labour, which he is the better able to perform while his Body is in Health and Vigour: Whereas on the other hand, one that cannot provide for himſelf, is commonly deſpiſed of Men, depreſſed in his Body, and de<g ref="char:EOLhyphen"/>jected in Mind, by all which he is much indiſpoſed to perform Duty to GOD or Man.</p>
+            <p>But ſome perhaps may ſay, Com<g ref="char:EOLhyphen"/>monly ſuch as have great Poſſeſſion employ theſe Benefits to quite contra<g ref="char:EOLhyphen"/>ry
+<pb n="5" facs="tcp:96190:7"/> Uſes, thereby ſtrengthning them<g ref="char:EOLhyphen"/>ſelves to the Paterns of Vice and Im<g ref="char:EOLhyphen"/>morality, and do not only this way impare their own Health, but alſo proceed on a Courſe of Diſobedience to GOD. and of injuring and oppreſſing their Neighbours.</p>
+            <p>This is often too true, as may eaſily be made appear, but it doth not in the leaſt repeal my Propoſition, the miſ<g ref="char:EOLhyphen"/>applying of Benefits derogateth no<g ref="char:EOLhyphen"/>thing from their Worth.</p>
+            <p>That every Man ſhould imploy him ſelf not only for the advancing of his own Intereſt, but likewiſe that he may propogate the Wellfare of others, will, I ſuppoſe, be ſooner granted than pract<g ref="char:EOLhyphen"/>iſed: but that we may the better con<g ref="char:EOLhyphen"/>ceive how every one may aſſiſt ano<g ref="char:EOLhyphen"/>ther, and contribute to the benefite of all, the ſeveral Profeſſions, Callings, and Corporations of Men in a Kingdom State or Republick, may be compared to the ſeveral Members of a Mans Bo<g ref="char:EOLhyphen"/>dy, the King or Supreme Governour
+<pb n="6" facs="tcp:96190:8"/> reſembling the Head, by which the whole Body is Governed, Theſe in Mi<g ref="char:EOLhyphen"/>litary Office may be compared to the Arms by which the Body is defended. Cities or Citizens may be compared to the Heart or Trunck of the Body, to which Retreat is made in time of dan<g ref="char:EOLhyphen"/>ger, and Supplies brought from one ex<g ref="char:EOLhyphen"/>traordinary Emergencies. Mechanicks or Trades-Men may be called the Hands with which Labour is perform<g ref="char:EOLhyphen"/>ed; And the Husband-man doth re<g ref="char:EOLhyphen"/>ſemble the Leggs which ſupports the whole Structure. Money may be called the Blood which circulates thro' all the Veins of the Body, and convoys Life and Vigor to every part.</p>
+            <p>I might proceed to ſhew in what re<g ref="char:EOLhyphen"/>ſpects Perſons of other Profeſſions and Imployments do reſemble other Mem<g ref="char:EOLhyphen"/>bers of the Body, but my deſign being to ſhew that every one ought to be Subſerviant to another, and not to en<g ref="char:EOLhyphen"/>quire what Anology is betwixt the Members of a Man's Body and the
+<pb n="7" facs="tcp:96190:8"/> Members of a Common-Wealth, I think it needleſs to follow the ſimili<g ref="char:EOLhyphen"/>tude any further.</p>
+            <p>To give particular Directions how every one ought to Act in his particu<g ref="char:EOLhyphen"/>lar Vocation or Profeſſion, ſo as he may not only ſupport himſelf, but alſo be Aiding and Aſſiſting to others, will readilly be acknowledged to be a hard Task, and that which I cannot under<g ref="char:EOLhyphen"/>take, yet with Submiſſion I would of<g ref="char:EOLhyphen"/>fer a few things to be conſidered, which I hope may be of good uſe unto all.</p>
+            <p>Man's Calling in General (beſides his chief Concern) being to provide Things neceſſary for the ſupport of his Body, that requiring a daily Subſiſt<g ref="char:EOLhyphen"/>ance, and the Things needed for that uſe, or at leaſt for the more comfort<g ref="char:EOLhyphen"/>able Support thereof, being many and various, every one cannot acquire ſuf<g ref="char:EOLhyphen"/>ficient Knowledge in all the Arts Sci<g ref="char:EOLhyphen"/>ences and Imployments that are neceſ<g ref="char:EOLhyphen"/>ſary for the providing himſelf with every thing he wants.</p>
+            <pb n="8" facs="tcp:96190:9"/>
+            <p>It's therefore neceſſary, That ſome be imployed one way, and ſome ano<g ref="char:EOLhyphen"/>ther; So that each may attain to ſome Competent Degree of Knowledge of, and Dexterity in the Vocation or im<g ref="char:EOLhyphen"/>ployment, he Profeſſes, So that every One may be Uſeful and Aſſiſting to another, And by a mutual Good Correſpondence with one another, all may live Comfortably together.</p>
+            <p>Man being thus deſtin'd to Labour for his Food and Raiment, and that by a ſpecial Command of the Supream <hi>Law Giver,</hi> it is not indifferent for him to Labour or be Idle, even tho' his Circumſtance may allow of the Latter.</p>
+            <p>How much time Men ought to La<g ref="char:EOLhyphen"/>bour each day is not poſitively pre<g ref="char:EOLhyphen"/>ſcribed (tho the number of days to wit ſix of ſeven is, and by the By, thoſe who enjoin Anniverſary days would do well to conſider by what Authority they do it) nor can we think all are required to labour alike
+<pb n="9" facs="tcp:96190:9"/> much, it being very reaſonable to think that theſe whom GOD hath Bleſ<g ref="char:EOLhyphen"/>ſed with Plenty, may Warrantably enjoy his Benefits, and are not cal<g ref="char:EOLhyphen"/>led to ſuch Violent Exerciſes, as thoſe whoſe Pinching Neceſſities oblige them to Labour hard, to Earn Bread to their Teeth; Yet it's both Neceſſary and convenient, that every one follow ſome Honeſt Vocation, and <hi>I</hi> think any Man diligently plying himſelf to La<g ref="char:EOLhyphen"/>bour ſeven or Eight Hours a Day, may acquire as much as is neceſſary for his Subſiſtence; And others in the hardeſt Circumſtances need nor labour above ten hours, which is no hard Matter; the remaining 14 hours being ſufficient to Refreſh themſelves by Sleep and other ways.</p>
+            <p>But as I have formerly obſerved, that the ſeveral Profeſſions and Incor<g ref="char:EOLhyphen"/>porations of Men in a Common-Wealths, do reſemble the ſeveral Mem<g ref="char:EOLhyphen"/>bers of a Man's Body, each having us proper Uſe and Imployment aſſigned
+<pb n="10" facs="tcp:96190:10"/> it, every one aiding and aſſiſting each other; And beſides there is more re<g ref="char:EOLhyphen"/>quired for the propagating of a mutual Aſſiſtance amongſt the Members of a Common-Wealth, then that one Man make or prepare things that may be uſeful to others, ſeeing he cannot pre<g ref="char:EOLhyphen"/>pare all Things neceſſary for himſelf, there muſt be an Exchanging or Bar<g ref="char:EOLhyphen"/>tering of Commodities, which cannot be well done without ſome kind of Talees that may <hi>paſs currant</hi> in all <hi>Bargains</hi> at a <hi>certain value;</hi> So that the <hi>Poſſeſſors</hi> thereof can have <hi>whatſoever they want</hi> upon the ſame, it being very <hi>hard,</hi> if not <hi>impoſſible</hi> for every One <hi>on all Occaſions,</hi> to get the <hi>Product</hi> of his <hi>Labour Bartered</hi> for the <hi>very things</hi> he ſtands in need of.</p>
+            <p>The <hi>Talees</hi> moſt in Uſe in all the <hi>Trading World</hi> are of <hi>Gold, Silver Braſs</hi> and <hi>Tin,</hi> being appointed to paſs at ſuch and ſuch <hi>Rates,</hi> as the ſeveral Kings and Princes of each Kingdom and State think fit to value them at.</p>
+            <pb n="11" facs="tcp:96190:10"/>
+            <p>Ye may Remember I compared Mo<g ref="char:EOLhyphen"/>ney in a Kingdom or Common-Wealth, to the Blood that Circulats thro' the <hi>Veins</hi> and <hi>Arteries</hi> of the Body, and communicats <hi>Life</hi> and <hi>vigor</hi> to <hi>Every Part,</hi> without which the Members would become <hi>Dead</hi> and <hi>Uncapable</hi> to aſſiſt or comfort one another.</p>
+            <p>Seing <hi>Metalling Money</hi> is of ſo great Uſe, tho' of little intrinſick Value, it being neither fit for <hi>Food</hi> nor <hi>Raiment,</hi> the chief <hi>Neceſſaries</hi> of Man's Life, tho' it may ſerve for Veſſels or other ne<g ref="char:EOLhyphen"/>ceſſary Uſes; Yet <hi>Iron</hi> for many Uſes is found much <hi>preferable to Gold,</hi> it being only the <hi>Scarcity</hi> or <hi>Rarity</hi> of that <hi>Mettle</hi> that makes it in ſo great Eſteem: However it be, it's plain, that the Uſe of <hi>Gold</hi> and <hi>Silver-money</hi> is very convenient all the <hi>Trading-World</hi> over, yea partly amongſt <hi>Barbarous</hi> and <hi>Savage</hi> People; And by <hi>Experience,</hi> we ſee the <hi>Poſſeſ<g ref="char:EOLhyphen"/>ſors</hi> of it can command any thing the Place a Toords at their Pleaſure.</p>
+            <pb n="12" facs="tcp:96190:11"/>
+            <p>If therefore it can be made appear, that any thing beſides Gold and Silver Money may be made Uſe of in all Tranſactions and Barganings, with as great Eaſe and Security as <hi>Gold</hi> or <hi>Sil<g ref="char:EOLhyphen"/>ver</hi> can be; then ſhall the following <hi>Project</hi> be found both Profitable and Convenient.</p>
+            <p>That ſomething beſides <hi>Gold</hi> or <hi>Sil<g ref="char:EOLhyphen"/>ver Coin</hi> may be made Uſe of in Traf<g ref="char:EOLhyphen"/>fick and Merchandizing, that doth Anſwer all the Ends and Uſes of it, ſhall by and by make appear.</p>
+            <p>And that I may immediatly come to the <hi>Proof,</hi> I think that I may refer it to the <hi>Judgement</hi> of all that are ac<g ref="char:EOLhyphen"/>quainted with the manner of the <hi>Cir<g ref="char:EOLhyphen"/>culating</hi> of <hi>Bank Notes.</hi> that ſomething beſides <hi>Gold</hi> or <hi>Silver-Money</hi> may ſerve in Exchange of Goods, or be made Uſe of in Commerce and Traffick.</p>
+            <p>If I ſhall yet make it further appear, That ſuch Notes may be ſtruck o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made Current, without any other Fond of Credit than the publick Faith of the
+<pb n="13" facs="tcp:96190:11"/> Nation, I hope I have performed my Undertaking.</p>
+            <p>The Publick Faith, perhaps by ſome may be thought of no good Security; But if ſuch Gentlemen will have <hi>Pa<g ref="char:EOLhyphen"/>tience</hi> to hear me to <hi>Amen.</hi> I ſhall make it evident that the ſame ſhall be a ſufficient Security, wherein there can be no manner of Danger.</p>
+            <p>But before I proceed to the Author or Foundation of this Security, I ſhall firſt ſhew in what manner thoſe Notes may be Circulated without any Dan<g ref="char:EOLhyphen"/>ger of Fraud, or Poſſibility of Forgery or Vitiation, which in my Opinion is the only point that can make this Project Practicable.</p>
+            <p>The Notes to be made Uſe of muſt be ſtruck and cut out of Books, much after the Faſhion of thoſe given out by the Bank, but with this Difference, that whereas the Bank Notes have the Value inſerted in the Body, and on the Margine which are lyable to Vi<g ref="char:EOLhyphen"/>tiation, it were ſit the Value of thir
+<pb n="14" facs="tcp:96190:12"/> Notes be alſo at large in Letters upon the Seal; So if there ſhould be a Viti<g ref="char:EOLhyphen"/>ation preſumed by Razing out a <hi>Word</hi> in the Body and Margine of the Note, and putting another in place thereof, it will not be poſſible to get that raz<g ref="char:EOLhyphen"/>ed out off the Seal, and another put in its Room.</p>
+            <p>But beſides all this it will be neceſ<g ref="char:EOLhyphen"/>ſary, that the Secretary or Clerk of the Office, after having Regiſtred each Note in a Diſtinct Poſt by it ſelf, give out with each Note, a Paper wherein he muſt write to the Effect, as fol<g ref="char:EOLhyphen"/>lows, <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>This incloſed Note Number firſt.</hi> Vol. <hi>firſt, is delivered to</hi> R. P. <hi>of</hi> G. <hi>at</hi> Edinburgh <hi>this 10th Day of</hi> June. 1700. <hi>By me</hi> A B. <hi>Clerk to the Exchequer Note Office.</hi>
+            </p>
+            <p>Then when the Perſon to whom the Note is delivered, has Occaſion to give it to any other, he muſt in like manner write,</p>
+            <p>
+               <hi>At G. the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> day of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Years,</hi>
+               <pb n="15" facs="tcp:96190:12"/> 
+               <hi>delivered this incloſed Note of Five Pound to S. C. of B. by me R. P.</hi>
+            </p>
+            <p>And ſo furth, every Perſon to whoſe hands the ſame ſhall come muſt Tranſ<g ref="char:EOLhyphen"/>mit it in like manner; And if the Pa<g ref="char:EOLhyphen"/>per ſhall happen to be filled up by theſe Indorſements, before the time of Chequing the ſaid Note, and delivery of a new Paper by the Clerk of the Office be accompliſhed, he to whoſe hand the ſame ſhall come laſt, muſt begin a new Paper, to the Effect fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p>
+               <hi>I J. B. of K. having received the in<g ref="char:EOLhyphen"/>cloſed Note Number firſt, Volumn firſt, Value Five Pound, and the Paper in which it was incloſed being filled up by In<g ref="char:EOLhyphen"/>dorſments, is retained in my Cuſtody, and ſhall be produced, if there be Occaſion or the ſame, by me</hi> J. B.</p>
+            <p>And every one to whoſe hands the ſaid Note ſhall come, muſt Tranſmit it to another, as in the firſt Paper; and at the end of the Year, or ſhort time before the Year expire, <hi>viz:</hi> Two
+<pb facs="tcp:96190:13"/> Weeks for all Reſiding within fifty Miles of <hi>Edinburgh,</hi> and others at a greater diſtance ſo much ſooner, as may be convenient to have Notice given to the General Office, before the Year be at an end, muſt give in Accounts of what Notes are in their Cuſtody, to one or other of the Offi<g ref="char:EOLhyphen"/>ces appointed for receiving the ſame in all conſiderable Burghs of the King<g ref="char:EOLhyphen"/>dom, and the Perſons appointed for receiving ſuch Accounts, muſt ſend Liſts of the ſame to the General Offi<g ref="char:EOLhyphen"/>ce, which the Clerk muſt compare with the Books; And finding none a miſſing of that Days date, nor two of one Number, nor any of another Num<g ref="char:EOLhyphen"/>ber than what ought to come in on ſuch a day, they may ſafely Tranſmit new Papers back to the ſeveral Offices from whence the Liſts were ſent, bear<g ref="char:EOLhyphen"/>ing to the Effect, as follows.</p>
+            <p>
+               <hi>That whereas I have reoeived Advice from A. B. that the Note Number firſt, Volumn firſt, has been Tranſmitted in due</hi>
+               <pb n="17" facs="tcp:96190:13"/> 
+               <hi>Form, and was in the Cuſtody of</hi> GOD, <hi>upon the <gap reason="blank" resp="#OXF" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> day of <gap reason="blank" resp="#OXF" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> and having compared the ſame with the Re<g ref="char:EOLhyphen"/>giſter, finds that no other Perſon pretends to have a Note of that Number, and value in his Cuſtody. This is therefore to ſatisfy all concerned, that the ſaid Note may paſs current as formerly.</hi>
+            </p>
+            <p>This Paper being ſent back to the Keeper of the Office, from whence the General Office had Intelligence, the perſon in whoſe Cuſtody the Note is at the time, ſhewing to the Keeper of this particular Office, that the ſame has been duely Tranſmitted to him, the ſame may paſs for a Year longer, as at the firſt. Thus every Year once, muſt the Notes be Chequed, as is ſhewed above.</p>
+            <div n="2" type="section">
+               <head>SECTION II.<hi>Anent the Security, Safety, and Eaſe of circulating of Notes.</hi>
+               </head>
+               <p>SOme perhaps may form many di<g ref="char:EOLhyphen"/>ficulties in the Proſecution of this
+<pb n="18" facs="tcp:96190:14"/> project, and in order to their ſatisfa<g ref="char:EOLhyphen"/>ctions, <hi>I</hi> ſhall ſolve all the Material ob<g ref="char:EOLhyphen"/>jection which I conceive any can ſug<g ref="char:EOLhyphen"/>geſt againſt it.</p>
+               <p>If it be ſaid, that it will be an un<g ref="char:EOLhyphen"/>accountable trouble to Indors each particular Note every time the ſame ſhall be Tranſmitted from one hand to another; I Anſwer</p>
+               <p>That conſidering the vaſt Benefit that will accreſs to the Nation by the uſe of them, a little pains may be the more Tolerable. But further if it be conſidered, that theſe Notes may con<g ref="char:EOLhyphen"/>tain in value five pounds Starl: at leaſt Reconing great and ſmall pro<g ref="char:EOLhyphen"/>miſcuouſly, it will be found, that they may be ſooner Tranſmitted by Indorce<g ref="char:EOLhyphen"/>ments than one can well tell over as much Money, eſpecially when it is i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> different Species, as moſt of our Money is.</p>
+               <p>If it be ſaid, that it will be a great trouble to give in Accounts frequently to the Offices throughout the King<g ref="char:EOLhyphen"/>dom,
+<pb n="19" facs="tcp:96190:14"/> and to receive back new Papers from the General Office as is above Narated; I ſay</p>
+               <p>The Difficulty here is not ſo great as at firſt view ſome may take it to be, for this is not needfull but once in the year, that is to ſay ſome ſhort time before the date of the Paper, wherein the Note is inclos'd be a year compleat, as was above ſhown; And 'tis only he to whoſe hands the Note comes about that time, that is to be at that trouble.</p>
+               <p>If it be ſaid tho the time of Che<g ref="char:EOLhyphen"/>quing each Note be only once in the year, yet ſome Notes coming out at all times of the year, and that they are to be Chequ'd on the ſame day of the year they come out on, it will occa<g ref="char:EOLhyphen"/>ſion a conſtant trouble, for ſome of all Dates may frequently come to hand; I Anſwer.</p>
+               <p>If it be found Convenient, that a Vaſt Number of Notes ſhall be ſtruck, 'twill be neceſſary that ſome of them
+<pb n="20" facs="tcp:96190:15"/> be given our at all times of the Year, becauſe the Chequing of them will take a conſiderable time, but if there be not a very conſiderable Number neceſſary, one Moneth or two will ſerve to give them all out in, each year: As for Example the Months of <hi>May</hi> and <hi>October,</hi> and in that caſe none will be put to this Trouble, but at theſe Terms of the Year.</p>
+               <p>If it be asked why theſe Notes ſhould be only Chequed once a Year, and why I would have the Clerks of the General Office <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o do it on the very Day on which they were given out.</p>
+               <p>The reaſon is. that iſ any Cheat ſhall happen, that it may immediatly be diſcovered; As for Example, I ſup<g ref="char:EOLhyphen"/>poſe Notes numbered from 500 to 700, ſhould be given out on the 4th Day of <hi>May,</hi> all thoſe to whoſe hands the Notes of that Days date ſhall hap<g ref="char:EOLhyphen"/>pen to come in the Month of <hi>April</hi> next Year, muſt give notice thereof
+<pb n="21" facs="tcp:96190:15"/> to the ſeveral Offices throughout the Kingdom, appointed for receiving ſuch Accounts, ſo that the ſame may be notiſied to the General Office, be<g ref="char:EOLhyphen"/>fore the 4th day of <hi>May:</hi> and the Clerk ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king down in whoſe hands theſe ſeveral Notes are in their propper Poſts, which muſt muſt be Rank'd in Or<g ref="char:EOLhyphen"/>der as thoſe in the firſt Book, where theſe Notes are marked down at giv<g ref="char:EOLhyphen"/>ing out; if the Account of two Notes of one Number, or the Account of any Note of that Days date, that is not of the Number between 500 and 700 ſhall happen, to come to Hand, it can be eaſily diſcovered, and notice returned to the Office from whence he had the Account, to enquire anent it, and by the <hi>Indorſments</hi> the ſame may be traced to the <hi>Author</hi> of the <hi>Forgery</hi> or <hi>Vitiation,</hi> if any ſhall hap<g ref="char:EOLhyphen"/>pen to be ſo impudent, as to attempt the ſame, whereas if theſe Accounts came not all in on one Day, it could not be ſo well diſcovered, if any <hi>Vi<g ref="char:EOLhyphen"/>tiation</hi>
+                  <pb n="22" facs="tcp:96190:16"/> ſhould be, and till they were be<g ref="char:EOLhyphen"/>yond doubt, notice could not be ſent back to permit the Circulation of the Notes, as formerly.</p>
+               <p>If it be ſaid, that here there is a Suppoſition of a <hi>Forgery</hi> or <hi>Vitiation,</hi> and if ſuch a Thing may happen to be, how is any Perſon Secure, 'Tis Re<g ref="char:EOLhyphen"/>plyed,</p>
+               <p>Tho there be ſuch a Thing ſuppos'd, yet it is next to impoſſible, that any ſuch Thing can be, for firſt there is all the Security in the Note it ſelf, which the Bank Notes have, and be<g ref="char:EOLhyphen"/>ſides, the value of the Note may be put at large on the Seal, as was for<g ref="char:EOLhyphen"/>merly mentioned, which the <hi>Bank Notes</hi> want: 'Tis true the Managers of the <hi>Bank</hi> are now about making Notes of diverſe Values in Different Characters, and alſo the Paper on which they are ſtruck with this Moto, <hi>The Bank of</hi> SCOTLAND, made in the Paper it ſelf, and if this be thought Neceſſary, the like may be made in
+<pb n="23" facs="tcp:96190:16"/> thir Notes likewiſe; But that on which I reckon the greateſt Security of all depends, is the Indorſement, as above.</p>
+               <p>My Reaſons for it are. Let all the Art of Man be imployed in making Notes of what Character they will, and with as many Subſcriptions and Seals as poſſible, yet the ſame may be imitated; it being as eaſy for an Engraver to cut the exact Copy of 20 ſeveral Subſcriptions and Seals as to Engrave the Note it ſelf: Tho' perhaps it might be difficult to get People in this place who would ingrave Plates, cut Seals, or make Paper, whereon Notes may be ſtruck like thoſe given out by the Office, becauſe it were hard to get the ſame perform'd with<g ref="char:EOLhyphen"/>out being Diſcovered; yet how eaſie were it for any Rogue to go Abroad, or Strangers to come from Foreign Parts (where they could have all theſe Things done exactly) with Coun<g ref="char:EOLhyphen"/>terfit Notes, if there were not ſome<g ref="char:EOLhyphen"/>thing
+<pb n="24" facs="tcp:96190:17"/> elſe Required than a ſimple Production of Notes. bearing the ſame <hi>Form</hi> and <hi>Figure</hi> with thoſe given out by the Office; 'Tis true the Office by Cuting their Notes out of a Book, might that way Cheque them as not to receive any forged Note whatever; but what ſe<g ref="char:EOLhyphen"/>curity is this to People that are ſome Hundreds of Miles from the Office, and the Party from whom they had them gone off before any ſuch Trial can be had. Therefore it is abſolutely ne<g ref="char:EOLhyphen"/>ceſſary for the ſecure Circulating of the ſaid Notes, that the ſame be Indorſed from hand to hand, as is ſhewed a<g ref="char:EOLhyphen"/>bove.</p>
+               <p>If it be asked, may not Rogues that can Forge Notes as is above ſup<g ref="char:EOLhyphen"/>poſed, as well Forge Indorſements? I Anſwer.</p>
+               <p>No, My Reaſon for it is this, either he is a Man of Stock and Reputation or not, if he be a Man of Stock and
+<pb n="25" facs="tcp:96190:17"/> Reputation; It is not to be ſuppoſed that he will attempt ſo difficult a Work, where the hazard is ſo great, for conſidering that he muſt give it un<g ref="char:EOLhyphen"/>der his Hand, that he had this Note duly Tranſmitted to him; at the end of the Year when this Note comes to the Teſt, it cannot <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut be diſcover<g ref="char:EOLhyphen"/>ed, and Undoubtedly he will be call'd in Queſtion for the ſame; what his Dange<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may be inthat caſe the Parlia<g ref="char:EOLhyphen"/>ment can beſt determine: But if he be a Man of no Stock or Credit, than he can have no Proſpect, ſo much as to get one Note fairly off his Hand, for any that are acquaint with him, being Jealous of the Deceit, have no more to do but to enquire at the Perſon who is ſaid to be the laſt Indorſer. whe<g ref="char:EOLhyphen"/>ther he has Tranſmitted ſuch a Note, to him, in whoſe Cuſtody the ſaid No<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is, which if he deny, as ſurely he will, if it be not ſo, then he is found out and brought to Condign Puniſhment.</p>
+               <pb n="26" facs="tcp:96190:18"/>
+               <p>If it be ſaid there can be no Traffick with, or payments made by theſe Notes to Strangers, becauſe they cannot have Recourſe to the Perſons who has Tranſ<g ref="char:EOLunhyphen"/>mitted theſe Notes unto their Hands, and conſequently may be impoſed on by ſome that may Forge Notes and Feign Indorſements. To this 'tis Anſwered.</p>
+               <p>If Merchants or others have Occaſion to go to a Place to buy Goods with ſuch Notes, or make Payments where they are nor acquainted, it will be neceſſary to have Letters of Recom<g ref="char:EOLhyphen"/>mendation from ſome Perſons of Cre<g ref="char:EOLhyphen"/>dit acquaint in the Place, where the payment is to be made.</p>
+               <p>If it be ſaid, that ſuch as intend to Forgo the ſaid Notes, may alſo Forge Letters of Recommendation.</p>
+               <p>I think it may be eaſier for ſuch Perſons to Fotge Precepts and Letters of Recommendations, which as the caſe ſtands, might procure Money from the Perſons on whom the Bills
+<pb n="27" facs="tcp:96190:18"/> are drawen, if Men may be ſuppos'd to be ſo ſimple as to accept of ſham Recommendations.</p>
+               <p>If it be ſaid, 'Twill be a great dale of Trouble to obtain Letters of Re<g ref="char:EOLhyphen"/>commendation ſo frequently. It is Anſwered.</p>
+               <p>This will not be neceſſary but u<g ref="char:EOLhyphen"/>pon Extraordinary Occaſions, it not being needfull amongſt Perſons well known to one another, or living upon the Spot together, for in that caſe where there is the leaſt Jealouſie, by Enquiring at the laſt Indorſer, the Cheat may be immediatly diſcovered and I do'nt think any man will be at ſo great pains as 'twil coſt him toForge the ſaid Notes. when undoubtly he muſt be diſcovered before he can get one Note off his hand, unleſs he deal with perſons ſupinly negligent; And ſuch as have Occaſion to make pay<g ref="char:EOLhyphen"/>ments in places at any conſiderable Diſtance, uſe frequently to do it by Bills, it not being ſafe to carry Money,
+<pb n="28" facs="tcp:96190:19"/> by reaſon of Robbers and other Acce<g ref="char:EOLhyphen"/>dents; And in that caſe there is mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e pains required in procuring ſuch Bills, than will be needed in obtaining Re<g ref="char:EOLhyphen"/>commendations beſides the Expence of Exchange on the ſaid Bills. And in this Reſpect. theſe Notes are prefer<g ref="char:EOLhyphen"/>able to Gold or Silver Money, for not only may payments be made by them in the fartheſt places of the Kingdom without any Loſs by Exchange, but alſo they may be Tranſmitted from one place to another without Danger or Robery. being of no uſe to any but to ſuch as have them by Indorſments: And moreover when any of them happens to be loſt by accident upon notice given to the General Office, with a particular Account of their Number and value, the ſame may be renewed to the Owner, provided that at the time of Chequing no other Perſon pretend to have any of the ſame Number and Value, Or if a Perſon were going to beſtow Money
+<pb n="29" facs="tcp:96190:19"/> in a Pair, in ſmall Parcels among Strangers, 'twill b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no hard Matter to get his Notes changed to Gold or Silver Money.</p>
+               <p>But if it be objected. That perhaps People may have Notes of the ſame Value regularly Tranſmitted to them, That is to ſay, true Notes, which by ſome Accident, ſuch as death of the Owner, or otherwiſe may be detain<g ref="char:EOLhyphen"/>ed, and Notice not timely given for the Chequing thereof, it was hard to give out Certificats to other People, whereby they might paſs for god Notes. To this I anſwer,</p>
+               <p>When any Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon ſhall inform the General Office. that they have left ſuch and ſuch Notes, the ſame is to be marked down by the Clerk; and it at the time of Chequing no other Per<g ref="char:EOLhyphen"/>ſon pretend to have the ſame, it is probable that their Information is true. But to prevent Deceit in this Matter, l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t the Perſon who pretends to have
+<pb n="30" facs="tcp:96190:20"/> loſt the ſaid Notes, give ſufficient Caution to be accountable, in caſe any other Perſon ſhall produce the true Note (which he pretends to have loſt.) orderly Tranſmitted to him.</p>
+               <p>If it be asked what poor People that cannot write ſhall do anent the Tranſ<g ref="char:EOLhyphen"/>mitting of the ſaid Notes.</p>
+               <p>It will be neceſſary for them to have a Perſon or two preſent when they receive any of the ſaid Notes, that may Atteſt under their Hands, that they ſaw the ſame fairly Tranſ<g ref="char:EOLhyphen"/>mitted to the foreſaid Party; and this I think may be ſufficient to ſatisfy him who ſhall next receive the ſame: Or when any of theſe Notes is offered in payment to a Perſon that cannot write, if he be due the like or greater value to any other Perſon he may order the ſame to be Indorſed in the Perſons Name to whom he is owing the Money.</p>
+               <p>If it be asked what People ſhall do when the Notes become old and torne.
+<pb n="31" facs="tcp:96190:20"/> Let them preſent the ſame at the Office neareſt the place of his Reſidence, ap<g ref="char:EOLhyphen"/>pointed for receiving ſuch Accounts, and let the Keeper of that Office fend Advice to the General Office to have the ſame renewed, who muſt ſend a new One of the ſame number and va<g ref="char:EOLhyphen"/>lue and take up that which is torn, which the Managers of the Office muſt ſee cancell'd.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT: III. <hi>Shewing the Baſſe on which this Fond of Credit may be Eſtabliſhed, The Number and value of the Notes re<g ref="char:EOLhyphen"/>quired, and the Expence of Manage<g ref="char:EOLhyphen"/>ment.</hi>
+               </head>
+               <p>SOme have a propoſed raiſing a Fond of Credit by making a certain Number of Notes, and that it be lodged in the Hands of the <hi>Royal Burrows,</hi> others u<g ref="char:EOLhyphen"/>pon Security of all Lands in the King<g ref="char:EOLhyphen"/>dom; The latter I do not underſtand
+<pb n="32" facs="tcp:96190:21"/> and ſhall as little Inquire into, but that which to me ſeems the moſt pre<g ref="char:EOLhyphen"/>ferrable of any that has been hi<g ref="char:EOLhyphen"/>therto propos'd is. That, by the Au<g ref="char:EOLhyphen"/>thority of the Parliament, a certain Number of Commiſſioners be appoint<g ref="char:EOLhyphen"/>ed for the Management of a certain Number of Notes to be ſtruck, and Circulated in manner as above expreſt and that the whole Value of the ſaid Notes be reſerved for a National Stock and applyed only in <hi>National Concerns,</hi> or otherwiſe as the Parliament ſhall think fit.</p>
+               <p>In that project for raiſing a Fond of Credit upon Seturity of all Lands in the Kingdom, it has been propoſed that <hi>Tallees</hi> ſhall be made in the Va<g ref="char:EOLhyphen"/>lue of 100 years Purchaſe of the whole foreſaid Lands.</p>
+               <p>To what Uſe ſuch a Vaſt Number can be imployed is more than I can Comprehend; for as 'twas formerly obſerved, the Uſe and End of Money is only to be given a pledge to the
+<pb n="33" facs="tcp:96190:21"/> party of whom one is to purchaſe any thing he wants; And what occaſion every Gentleman, and Heritor in the Country can have for ſix-times the va<g ref="char:EOLhyphen"/>lue of his, lands in ready Money, is more than <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> underſtand.</p>
+               <p>'Tis tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, if of one Gentleman, two, three, or a dozen of them, had each ſix-times the volue of his Lands, in ready Money, perhaps thy could find Uſe for it, to lend to ſuch of their Neighbours as had Occaſion for it: But if every one had ſo much to lend and none need to borrow. I leave it to the Author of that project, to direct them how to imploy it, for my own ſhare I ſee not what occaſion any Gentleman or Heretor that has a Land Eſtate has need for above a year, or half a years Rent lying by him in ready Money; And if Merchants or others that make a Trade of Buying &amp; Selling or has their Stocks in Move<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bles, have one third or fourth part <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f their Stocks by them in ready Money,
+<pb n="34" facs="tcp:96190:22"/> it is fully ſufficient to carry on a Trade.</p>
+               <p>I do not mean, that a Merchant can never have occaſion for more Mo<g ref="char:EOLhyphen"/>ney than the third or fourth part of his Stock, but if every one be ſo well provided, he may eaſily borrow what he wants on exerordinary Occaſions.</p>
+               <p>Now if ſo much Money can be pro<g ref="char:EOLhyphen"/>vided as to ſupply every one with the quantities above mentioned, there will be no occaſion to murmur for the want of Money, or any good deſign fruſt<g ref="char:EOLhyphen"/>rated upon that Account.</p>
+               <p>That ſuch a quantity, or at leaſt as much as ſhall be found convenient may be eaſily raiſed by the foreſaid Notes (I Suppoſe) will be readily believed.</p>
+               <p>And to ſatisfie ſuch as may make any Difficulties touching the Circulat<g ref="char:EOLhyphen"/>ing the ſaid Notes. I ſhall make it ap<g ref="char:EOLhyphen"/>pear, that the ſaid Notes ſhall in the ſpace of 25 years be totally cancell'd, and yet the whole value of them ſtill <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emain intire.</p>
+               <pb n="35" facs="tcp:96190:22"/>
+               <p>I cannot particularly condeſcend on the number of the Notes or the quan<g ref="char:EOLhyphen"/>tity of the Stock this way to be raiſed, for that muſt be according as People ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e them out upon their Bands bearing Annualrent, for it is not to be ſuppos'd that theſe Notes are to be given People gratis, neither will it be neceſſary that they ſhould be all ſtrucker at one time, but from time to time as there ſhall be occaſion, and at the end of 2 or 3 years, or as ſoon as there ſhall be aboundance of them diſperſed Abroad, ſo that People's Hands are thereby ſufficiently filled for the carrying on of Trade, no more Notes are to be ſtruck, but on the contrary 4 <hi>per Cent,</hi> or <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>25th</hi> part of the whole Notes are to be taken up and Cancell'd each year, ſo at the end of 25 years none of them will be remaining, and yet their whole value will be intire.</p>
+               <p>The Annualrent of the Money lent out will be ſufficient to defray all ex<g ref="char:EOLhyphen"/>pence
+<pb n="36" facs="tcp:96190:23"/> of Management, and take up 4 <hi>per Cent</hi> of the whole Notes yearly, as doth appear by the following Cal<g ref="char:EOLhyphen"/>culation, <hi>Viz.</hi>
+               </p>
+               <p>I ſupoſe one Million of <hi>Ster:</hi> Money may at leaſt be ſtruck in Notes. The Intereſt of which at 6 <hi>per Cent</hi> is Sixty Thouſand <hi>Lib:</hi> Sterling. Forty Thou<g ref="char:EOLhyphen"/>ſand Pounds of this muſt be given e<g ref="char:EOLhyphen"/>very year for the Notes that are Can<g ref="char:EOLhyphen"/>cell'd, and the other twenty Thouſand is more than ſufficient to pay Triple the Charge or Expences of Manage<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Seven or 8 <hi>Commiſſioners I</hi> Judge may be abundance for Directors or Chief Managers, who may take Security from ſuch as take out theſe Notes u<g ref="char:EOLhyphen"/>pon Loan, and when any Perſon in places at a diſtance would borrow, provided none of the Managers be ac<g ref="char:EOLhyphen"/>quainted with his Circumſtances, it will be ſit that they bring Certificats from the Magiſtrates of <hi>Burrows,</hi> Com<g ref="char:EOLhyphen"/>miſſioners of Supply, or ſome other
+<pb n="37" facs="tcp:96190:23"/> perſons of Credit in the Place, ſo that the Managers may on all Occaſions, be ready to Accomodat the Lieges upon reaſonable Security; and once every Year, or at ſuch other times as the Parliament ſhall appoint, produce their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ournals unto ſuch Auditors as the Parliament ſhall think fit to Nomi<g ref="char:EOLhyphen"/>nat for Reviſing their Accounts, and Examining the whole Courſe of their Management.</p>
+               <p>That ſuch perſons may be provided with reaſonadle Salaries for their con<g ref="char:EOLhyphen"/>ſtant Attendance and Diligence, let two Hundred <hi>Lib. Sterling</hi> be allowed to each of them a Year, the Governour or Preſident the double, the Secretary two Hundred <hi>Pounds</hi> likewiſe. This altogether will not exceed two Thou<g ref="char:EOLhyphen"/>ſand <hi>Pounds Sterling.</hi>
+               </p>
+               <p>It was formerly obſerved. That it would be a great Eaſe to the Lieges to have the time of Chequing of the abovementioned Notes at two Terms in the Year; and that the ſame may
+<pb n="38" facs="tcp:96190:24"/> be effectuated, 'twil require the greater Number of Clerks for marking down and Chequing the ſaid Notes at the Reſpective Torms of Chequing; And I Judge fourty imployed a Moneth or ſix Wheels about the Terms of <hi>Whit<g ref="char:EOLhyphen"/>ſunday</hi> and <hi>Martinmaſs</hi> Yearly, will be ſufficient to Cheque the whole Notes, tho' they be upwards of a Million <hi>Pounds Sterling</hi> in Value; And that half a Crown <hi>per</hi> Day, will be ſuffici<g ref="char:EOLhyphen"/>ent allowance for to each of them.</p>
+               <p>Fourty Men three Months at half a Crown <hi>per</hi> day will require 360 Pounds.</p>
+               <p>Beſides theſe, ſix or eight Clerks would conſtantly attend the Office for giving out and Regiſtring Notes mark<g ref="char:EOLhyphen"/>ing down the Informations of ſuch as looſe their Notes, and dong every thing elſe requiſite, 30 or 40 Pounds a peice yearly may be ſufficient for their Attendante, which will not exceed 250 Pound.</p>
+               <p>Theſe that attend the Offices through<g ref="char:EOLhyphen"/>out
+<pb n="39" facs="tcp:96190:24"/> the Kingdom muſt next be provided for; their number I think needs not exceed four or five ſcore be<g ref="char:EOLhyphen"/>ing ſixed at convenient places; Their pains and Labour not being equal, by Reaſon ſome will be in places of great<g ref="char:EOLhyphen"/>er Repair than others, it's but juſt that their Sellaries be proportioned to their pains, and the twelve Weeks in which the Notes are Chequed being only the time in which their Buſſineſs is greateſt; Let 20 ſh. <hi>St: per</hi> Week be allowed to each of them promiſcuouſ<g ref="char:EOLhyphen"/>ly (becauſe it were both needleſs and tedious to make a particular Calcula<g ref="char:EOLhyphen"/>tion) during the ſaid twelve Weeks; For the reſt of the year they will have nothing to do but to give notice to the General Office of any Note that is loſt in their Reſpective Bounds, or for the Exchange of worn or torn Notes: Therefore very ſmall Allowance may be ſufficient for all this pains.</p>
+               <p>Now ſuppoſe them to be 100 Com<g ref="char:EOLhyphen"/>pleat, 1200 will pay their whole Sal<g ref="char:EOLhyphen"/>lerys
+<pb n="40" facs="tcp:96190:25"/> for the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> in which they are chiefly imployed, and grant they have 200 or 300 L, allowed amongſt them all for their other Service, this will not exceed: in all <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 900.</p>
+               <p>The next Expence to be conſidered is the Poſtage of Letters to and again, and if a Hundreth <hi>Pound<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sterling</hi> or two be allowed for this, I think the Poſtmaſter will be at no loſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>But becauſe ſome of theſe Offices being <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſome perhaps a dozen or twenty Miles from any Poſt-Office, or off the Poſt Rod, it will be neceſſar that one be ſent expreſs with Accounts from ſuch particular Offices to ſome Poſt Office, and this Expence alſo muſt come off the Publick, and that we may Gueſs what this may amount to.</p>
+               <p>I ſuppoſe 20 or 30 of theſe Offices lie 20 Miles off any Poſt way; being only at the Terms of Chequing, that there will be Occaſion for imploying ſuch By-Poſts, neitheir will they need
+<pb n="41" facs="tcp:96190:25"/> to be imploied above once a Week. Say 30 Fellows be ſent with Expreſſes 20 Miles for 3 Months once a Week, or becauſe ſome of the Notes may be ſooner or latter given notice of, grant they are thus imployed 4 Months in the Year, and that each of theſe Foot Poſts have 20 Miles to go with his Letters, Whereas ſome of them will not have above ſix. Allow alſo each of them half a Crown for his pains each time he goes out and comes back with his Packet, the who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Money to defray this Expences, will not exceed 50 or 60 <hi>Lib: Sterl:</hi> but allow it to be 100.</p>
+               <p>Every thing being thus Reckoned at large, which on occaſion may be Retrinchedone Third at leaſt, the whole Expence of Management exceeds not 4410 <hi>Lib:</hi>
+               </p>
+               <p>The Intereſt of a Million at ſix <hi>per Cent.</hi> amounts to 20000 <hi>Lib,</hi> over and above the 40000 <hi>Lib:</hi> which is to be given out Yearly for the Notes
+<pb n="42" facs="tcp:96190:26"/> that are to be cancell'd</p>
+               <p>Here is no leſs than 15590 <hi>Lib.</hi> of Annual Excreſſions, beſide what de<g ref="char:EOLhyphen"/>frays the Charge of Management, and taking up of the foreſaid Notes, and yet the whole Capital Stock Remains entire.</p>
+               <p>This 15590 <hi>L.</hi> may be applyed for the publick Concerns of the Na<g ref="char:EOLhyphen"/>tion, the whole time the Notes are Circulating, and at the end of 25 years, when the whole Notes are Re<g ref="char:EOLhyphen"/>tired, the whole 60000 <hi>L.</hi> will be a Perpetual Annual Fund to be applyed for the Uſe of the Publick.</p>
+               <p>Before I cloſe, I ſhall Anſwer two Objections or Scruples which ſome may have anent the Proſecution of this Project.</p>
+               <p>The firſt I ſuppoſe will be by ſuch as have conſiderable Sums lent upon Intereſt, leaſt the party in whoſe Hands it is ſhall borrow the like Va<g ref="char:EOLhyphen"/>lue of Notes, and make payment to them with the ſame.</p>
+               <pb n="43" facs="tcp:96190:26"/>
+               <p>To this I ſay, this ought to be no manner of Scruple, For a Law being Eſtbaliſhed, ordaining the ſaid Notes to paſs in all payment whatever, and a Method laid down. rendering the perſons in whoſe poſſeſſion they are fully as ſecure as if they had the like value in Gold or Silver Money; (Yea in ſome Caſes better as has been al<g ref="char:EOLhyphen"/>ready ſhown) they can be in no worſe Circumſtances to have their Money paid in Notes then in Gold, un<g ref="char:EOLhyphen"/>leſs they ſay by this project, Money will Become more plenty than <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w it is, and therefore they would find it more difficult to get their Money Se<g ref="char:EOLhyphen"/>cured in good Hands.</p>
+               <p>This Argument <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Judge to be much of the ſame Nature, with that which a certain Perſon propon'd to the Coun<g ref="char:EOLhyphen"/>cil of a certain City, wherein an E<g ref="char:EOLhyphen"/>pidemick Diſtemper raged, when ſome Encouragement was propoſed to be given to an Eminent <hi>Phyſician</hi> that he might come and Reſide with them.
+<pb n="44" facs="tcp:96190:27"/> The honeſt Gentleman proudently moved, that the Council would con<g ref="char:EOLhyphen"/>ſider, that whereas formerly there was but one Man in that Town, which made Coffins for Dead People, and that of late another had ſet up; If they ſhould give Encouragement to this <hi>Phyſician,</hi> and his Medicines prove effectual, it might much prejudge the Trade of theſe Coſſin-makers.</p>
+               <p>Perhaps ſome may ſay, what if a Revolution ſhould happen? what ſhall become of all thoſe who have ſuch Notes in their Cuſtody? For we Remember during the Wars, about 50 years ago, conſiderable Summs were borrowed upon the Publick Faith, which few had the good For<g ref="char:EOLhyphen"/>tune to get Repaied.</p>
+               <p>I am almoſt aſhamed to Form ſuch an Objection, it being ſo far from the purpoſe, but that I have heard ſome thing of this Nature has been already Objected.</p>
+               <p>In the firſt place I ſay, let all honeſt
+<pb n="45" facs="tcp:96190:27"/> Menpray that no ſuch Revolution may ever happen, and alſo thank GOD, Matters are ſo Eſtabliſhed, that we have little or no Ground to fear it. Howbeit, ſeeing all things Earthly are Subject to Mutation and Accidents. I ſhould think it a very ill Founded Project, if even an Accident of that kind could Overturn it,</p>
+               <p>Therefore, I muſt tell any that makes ſuch a Suggeſtion, that in my Judgement there is ſuch a Vaſt Diffe<g ref="char:EOLhyphen"/>rence in the Compariſon, that I may Warrantably ſay there is no Paralel.</p>
+               <p>For in the caſe inſtanced. the Mo<g ref="char:EOLhyphen"/>ney was lent for the moſt part by ſuch as were Reputed no great Friends to the Government afterward Eſtab<g ref="char:EOLhyphen"/>liſhed. That Money was imploied to ſuch Ends as the Government after Eſtabliſhed did not approve. That Money then advanced was ſpent and gone, and would have been a Senſible loſs to the Nation to have made it up; in all which Reſpects,
+<pb n="46" facs="tcp:96190:28"/> the Project here propoſed is Diame<g ref="char:EOLhyphen"/>terically oppoſit.</p>
+               <p>I have inſiſted on the two former <hi>Sections,</hi> beyond what I thought to have done, but becauſe every one will not ſo eaſily conceive it. I thought I could not beſtow too much Pains in holding forth a Matter of ſo much Conſequence, and that I may make it plain to the meaneſt Capacity, do not think it impertinent to reſume the whoſe Project in a plain Demon<g ref="char:EOLhyphen"/>ſtration, <hi>Viz.</hi>
+               </p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT: IV. <hi>An Example of the whole Project of Cir<g ref="char:EOLhyphen"/>culating Notes.</hi>
+               </head>
+               <p>THE Clerks of the Office having made their Books with a di<g ref="char:EOLhyphen"/>ſtinct
+<pb n="47" facs="tcp:96190:28"/> Poſt for each Note Number<g ref="char:EOLhyphen"/>ed as the Notes themſelves, begins to write, as follows.
+<list>
+                     <head>Volem 1.</head>
+                     <label>
+                        <hi>Note</hi> 1</label>
+                     <item>
+                        <hi>Is delivered to</hi> Andrew Wright <hi>Car<g ref="char:EOLhyphen"/>penter in</hi> Lieth, <hi>this 10 of Oct.</hi> 1700</item>
+                     <label>
+                        <hi>Note</hi> 2</label>
+                     <item>
+                        <hi>Is delivered to</hi> John Smith, <hi>Hamar<g ref="char:EOLhyphen"/>man in</hi> Canogate, <hi>this 10 of Oct.</hi> 1700</item>
+                     <label>
+                        <hi>Note</hi> 3</label>
+                     <item>
+                        <hi>Is Delivered to</hi> Mathew Long <hi>of</hi> litle Town, <hi>this 10 of Oct.</hi> 1700.</item>
+                     <label>
+                        <hi>Note</hi> 4</label>
+                     <item>
+                        <hi>Dito</hi>
+                     </item>
+                     <label>
+                        <hi>Note</hi> 5</label>
+                     <item>
+                        <hi>DitO</hi>
+                     </item>
+                     <label>
+                        <hi>Note</hi> 6</label>
+                     <pb n="48" facs="tcp:96190:29"/>
+                     <item>
+                        <hi>Dito</hi>
+                     </item>
+                     <label>
+                        <hi>Note</hi> 7</label>
+                     <item>
+                        <hi>Dito</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>The Clerk with each of theſe Notes muſt give a paper bearing to whom it was delivered, as for Example.</p>
+               <p>The Incloſed Note Number 7th. Volum firſt, Value five <hi>Pounds</hi> is delivered to <hi>William Long</hi> of <hi>Littletoun,</hi> this 10th of <hi>October</hi> 17000, by me</p>
+               <p>
+                  <hi>Henry Green</hi> Clerk of the National Stock-Office.</p>
+               <p>
+                  <hi>Edinburgh</hi> November <hi>2d: 1700 Delivered this incloſed Note Number ſeventh Volum firſt. Value five L. to William Trader Merchant in</hi> Edinburgh <hi>by me, John Long</hi>
+               </p>
+               <p>
+                  <hi>Edinburgh November 15 1700 de<g ref="char:EOLhyphen"/>livered this incloſed Note Number ſeventh Volum firſt. value five</hi> L. <hi>to <hi>Michael Good Ale, Brewer in</hi> Edinburgh <hi>by me William Trader.</hi> Edinburgh February 2d. 1700 De<g ref="char:EOLhyphen"/>livered
+<pb n="49" facs="tcp:96190:29"/> this incloſed Note Number ſeven<g ref="char:EOLhyphen"/>th volum firſt, value five</hi> L. <hi>to</hi> John Gentleman <hi>of</hi> Braeſide <hi>in</hi> Aberdeen <hi>Shire by me</hi> Michael Good-Ale.</p>
+               <p>Aberdeen Mar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h, 25 1701 <hi>deliver<g ref="char:EOLhyphen"/>ed this incloſed Note, Number ſeventh, Volum firſt, value five L. to</hi> George Cook Vimner <hi>in</hi> Aberdeen, <hi>By me</hi> John Gentleman.</p>
+               <p>Abercleen, May <hi>10th</hi> 1701. <hi>Deli<g ref="char:EOLhyphen"/>vered this incloſed Note, Numb: ſeventh, Volum firſt. valne five</hi> L. <hi>to</hi> George Dier, L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tſter <hi>in</hi> Aberdeen, <hi>By me</hi> George Cock.</p>
+               <p>Aberdeen, June <hi>15th.</hi> 1701, <hi>Deli<g ref="char:EOLhyphen"/>vered this incloſed Note, Numb, ſeventh, Volum firſt, value five</hi> L. <hi>to</hi> Jean Knit<g ref="char:EOLhyphen"/>ſicker, <hi>Stocken-Worker in</hi> Aberdeen, <hi>in Preſence of</hi> John Waft <hi>and</hi> Thomas Thrumb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>Weavers there, By me</hi> George Dier.</p>
+               <pb n="50" facs="tcp:96190:30"/>
+               <p>Aberdeen, June <hi>16th.</hi> 1701, <hi>Deli<g ref="char:EOLhyphen"/>vered by</hi> Jean Knitſicker <hi>this in<g ref="char:EOLhyphen"/>cloſed Note Numb: ſeventh, Volum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it value five</hi> L. <hi>to</hi> Andrew Fairdealer, <hi>Merchant in</hi> Aberdeen, <hi>before us Wit<g ref="char:EOLhyphen"/>neſſes,</hi> John Waſt, Thomas Thrumb.</p>
+               <p>Edinburgh, Auguſt <hi>3d 1701, De<g ref="char:EOLhyphen"/>livered this incloſed Note, Numb: Se<g ref="char:EOLhyphen"/>venth, Volum firſt, value five</hi> L. <hi>to</hi> John Barganer <hi>Merchant in</hi> Edinburgh, <hi>By me</hi> Andrew Fairdealer,</p>
+               <p>I ſuppoſe by this time the paper may be filled up with Indorſements, and the Man in whoſe cuſtody it now is, begins another paper, as followeth, <hi>Viz.</hi>
+               </p>
+               <p>I John Barganer <hi>Merchant in</hi> Ed in<g ref="char:EOLhyphen"/>burgh, <hi>having received the Incloſed Note, Numb: ſeventh, Volum firſt, value five</hi> L. <hi>given out of the General Office the 10th of</hi> October 1700. <hi>and the Papers in which it was incloſed, being filled up with Indorſements, is retained in my Cuſtody, and ſhall be produced if</hi>
+                  <pb n="51" facs="tcp:96190:30"/> 
+                  <hi>there be Occaſion for the ſame; And in the mean time the Note it ſelf here in<g ref="char:EOLhyphen"/>cloſed is delivered to</hi> Thomas Sheep<g ref="char:EOLhyphen"/>herd <hi>of</hi> Green-braes, <hi>in the Shire of</hi> Dumfreis, <hi>By me</hi> John Barganer.</p>
+               <p>The time of Chequing the ſaid Note now approaching, as it may be perceived by taking notice what time it came out of the Office: Notice is thereof given to the Office at <hi>Dum<g ref="char:EOLhyphen"/>freis</hi> appointed for receiving ſuch Ac<g ref="char:EOLhyphen"/>counts, and the Keeper of the ſaid Office, ſends in a Liſt to the General Office, ſhewing in whoſe Hands ſuch and ſuch Notes are to be Chequed that day; among which he notifies that the fore ſaid Note <hi>Numb: 7. Volum 1ſt.</hi> value five <hi>L.</hi> is in the Cuſtody of <hi>William Sheepherd.</hi>
+               </p>
+               <p>The Clerk having viewed all the Liſts of Notes of that Days date, and finding <hi>Numb:</hi> 7. Vol: 1. value 5 <hi>L.</hi> to be in cuſtody of <hi>William Sheepherd,</hi> be takes his Book with blank Poſts,
+<pb n="52" facs="tcp:96190:31"/> Numbered as that wherein the Notes were marked down at giving out, and in the ſeventh Poſt marks down.</p>
+               <p>
+                  <hi>The Note</hi> Numb: 7. Vol. 1. <hi>is at preſent in the cuſtody of</hi> William Sheep<g ref="char:EOLhyphen"/>herd of Greenbraes.</p>
+               <p>Then he takes a Paper as at the firſt, and therein Writs, as follows.</p>
+               <p>Edinburgh, Oct: 10th, 1701, <hi>Where<g ref="char:EOLhyphen"/>as I have received Advice from</hi> A. B. <hi>that the Note</hi> Numb: <hi>ſeventh,</hi> Volum <hi>firſt, value five</hi> L. <hi>has been Tranſmitted in due Form, and was in Cuſtody of</hi> William Sheepherd <hi>of</hi> Greenbraes, <hi>upon the 25th of</hi> September <hi>laſt. And hav<g ref="char:EOLhyphen"/>ing compared the ſame with the Regiſter, finding that no other Perſon pretends to have a Note of that Number, Volumn, and Value in his Cuſtody. This is therefore to ſatisfy all concerned, that the ſaid Note may paſs Current, as formerly.</hi>
+               </p>
+               <p>This Paper is ſent back to the Keep<g ref="char:EOLhyphen"/>er of the Office at <hi>Dumfreis,</hi> and if it hapen that the forementioned perſon
+<pb n="53" facs="tcp:96190:31"/> has Occaſion to deliver the Note to any other Perſon between the time of his giving Notice that it was in his Cuſtody, and the time of receiving of this new Paper, he muſt tranſmit it, bearing that he has given Notice thereof to the Office, and the Perſon in whoſe Cuſtody the Note ſhall hap<g ref="char:EOLhyphen"/>pen to be at the time when this Pap<g ref="char:EOLhyphen"/>er comes to <hi>Dumfreis</hi> may call for it, and when he has Occaſion to deliver the Note to any other Body, make Uſe of this new Paper in Tranſmitting of it from Hand to Hand as in the firſt Paper, and when tho ſaid Paper is filled up with <hi>Indorſements,</hi> begin one of new as was formerly Deſcrib<g ref="char:EOLhyphen"/>ed, and next Year notice muſt be giv<g ref="char:EOLhyphen"/>en in whoſe Cuſtody the ſaid Note is at the time of Chequing, which muſt ſtill be the ſelf ſame Day on which it was firſt given out, or at leaſt on that Day which the Paper given out with it bears it is be Chequed on, and this Method muſt be follow,
+<pb n="54" facs="tcp:96190:32"/> ſo long us the Notes are in Circulat<g ref="char:EOLhyphen"/>ing, which will not be above 25 Years, if one 25th part of them be taken up Yearly, as is propoſed.</p>
+               <p>Or if at any time before all the Notes ſhall be Cancelled, if the Par<g ref="char:EOLhyphen"/>liament find it neceſſar that ſome Mo<g ref="char:EOLhyphen"/>ney be advanced on any National Concern, they may Suſpend the Can<g ref="char:EOLhyphen"/>celling of any Notes for a Year, leſs or more as they ſhall think ſit, and appoint the Money which ſhould have been given for taking up of the Notes for that time, to ſuch Uſes a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they ſhall ſee meet.</p>
+            </div>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="55" facs="tcp:96190:32"/>
+            <head>CHAP. II.</head>
+            <p>SHevreth how the Notes propoſed in the former Chapter, may be diſpoſed of, and how the Hon<g ref="char:EOLhyphen"/>our, Credit, and Wealth of the Na<g ref="char:EOLhyphen"/>tion, many ſeveral other wayes be advanced.</p>
+            <div n="1" type="section">
+               <head>SECTION I. <hi>How the Notes propoſed in the Preceed<g ref="char:EOLhyphen"/>ing Chapter may be diſpoſed of in part.</hi>
+               </head>
+               <p>TH<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> SCOTS <hi>Indian</hi> and <hi>African</hi> Company hath been the Sub<g ref="char:EOLhyphen"/>ject of much Diſcourſe in the world for ſome time paſt, that it may be a profitable Undertaking to this Nation, is Undoubtedly the Con<g ref="char:EOLhyphen"/>cern of a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l SCOTS Men, and that to which every one in his propper Sphere ought to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he aſſiſting, but the bad Succeſs hitherto of the Efforts, for
+<pb n="56" facs="tcp:96190:33"/> Propogating, it hath created ſuch a Miſ-underſtanding amongſt People, that every one is Jealous of another.</p>
+               <p>To <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nquire into the particular cauſ<g ref="char:EOLhyphen"/>es of the Diſapointments, that has hitherto hapened, in the proſicution of that deſign will not be ſo neceſſary, as to lay down Methods to prevent the like for the future, a Phyſitian knowing the Diſtemper, tho he do not publiſh the ſame, may preſcribe Remedies; And a Man may quench Fire, tho he inqure not how it broak our. and becauſe the great obſticle or Impediment that fruſtcrats the cary<g ref="char:EOLhyphen"/>ing on of that deſign, is the want of Money; I think the Parliament may Lend upon intereſt a hundreth Thou<g ref="char:EOLhyphen"/>ſand, or two Hundreth Thouſand Pounds <hi>Str:</hi> of theſe Notes, to ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Indian</hi> and <hi>African</hi> Company.</p>
+               <p>Perhaps ſome may ſay, the Money that has been already given to cary on that Trade, has been ſo Miſma<g ref="char:EOLhyphen"/>naged or miſaplyed, that there is but
+<pb n="57" facs="tcp:96190:33"/> litle hope that there will be a good account given of this, provided the Parliament ſhould allow them the ſame.</p>
+               <p>The Setlement by all the Accounts we have of it may be made, one of the moſt Comodious and moſt Profita<g ref="char:EOLhyphen"/>ble Colonys in the World. The <hi>Spain<g ref="char:EOLhyphen"/>ards</hi> are a People, which are not in a Condition to do us Damnage by Sea, if we had any conſiderable Naval Force; I mean even what we may have, if ſo much Money as is men<g ref="char:EOLhyphen"/>tioned, were imployed to propogat that Colony; Nothing need we fear from <hi>France,</hi> for in that caſe we may expect the Aſſiſtans of the <hi>Engliſh,</hi> it being the intereſt of <hi>England,</hi> that we ſhould have that place, rather than the <hi>French.</hi>
+               </p>
+               <p>By Land there is no Danger, for not only are the <hi>Spaniards</hi> of thoſe parts an Eſteminate lazie People, un<g ref="char:EOLhyphen"/>acquainted with Wars, but like wiſe are few in Number, ſcarce able to
+<pb n="58" facs="tcp:96190:34"/> keep Poſſeſſion of the Plantations they have already; Morover, they live at a conſiderable Diſtance from our Settlement, and the Woods betwen them and our People are unpaſſible for Armies with Waggons and Artil<g ref="char:EOLhyphen"/>lerie, and other neceſſaries for a Siege.</p>
+               <p>But the greateſt Fears of ſome per<g ref="char:EOLhyphen"/>haps may be, that our own Country<g ref="char:EOLhyphen"/>men intruſted with the Effects and Concerns of the Company, may pre<g ref="char:EOLhyphen"/>fer their own private Intereſt to the publick Good, and by this means Ruin all.</p>
+               <p>To prevent this, there would be ſpecial Care taken in the Choice of thoſe who are to have any conſider<g ref="char:EOLhyphen"/>able Truſt there, that they be Men of Conſcience, Probity and Honour, for it is not to be ſuppoſed, that Men of no Principle will ſtudy the Good of the Company: further than it jumps with their private Intereſt; And it's but reaſonable, the Parliament ſhould have a ſpecial Hand in their Election
+<pb n="59" facs="tcp:96190:34"/> ſeing they lend the Company a conſi<g ref="char:EOLhyphen"/>derable Sum to carry on their Trade.</p>
+               <p>There would be likewiſe Care tak<g ref="char:EOLhyphen"/>en in the Choice of thoſe who are to labour in the Plantation. that they be People inur'd to Work, for one Plew-Man, Wright, Gardner or other Tradeſ<g ref="char:EOLhyphen"/>man bred with hard Labour, can be more ſerviceable in the Colony, than three Men bred to an idle Life; And the Expence of Tranſporting them thither, and mantaining them while there, is a like in both.</p>
+               <p>The next Difficulty proponed, per<g ref="char:EOLhyphen"/>haps may be, that it will not be ſo eaſie to find Tradeſmen, and Others Inur'd to Labour, as disbanded Sol<g ref="char:EOLhyphen"/>diers, and other ſort of idle People.</p>
+               <p>Suppoſe it be ſo, yet the vaſt diffe<g ref="char:EOLhyphen"/>rence of their Uſefulneſs will do more than countervail the Expence and pains that the One will coſt more than the Other; For I ſuppoſe the Company cannot ſend a Labourer to <hi>Caledonia</hi> under Five pounds, conſide<g ref="char:EOLhyphen"/>ring
+<pb n="60" facs="tcp:96190:35"/> he is to be ſubſiſted from the time he is Liſted till he be ſet a Shoar in the <hi>Colony:</hi> And it were better that they give a Luſty Able Workman Five pounds in Hand, and tranſport him to their Settlement, than to tranſport Two bred to Idleneſs thither, tho they give them nothing in Hand, For not only is the Two as much Expence in Tranſportation as the Others and his 5 <hi>Lib.</hi> beſides Tranſportationin, but this One ſhall be more Serviceable in the Plantation than the Other two, and live on the half of their Allowance whilſt there.</p>
+               <p>But after all, I do not think there will be any great Difficulty in get<g ref="char:EOLhyphen"/>ting Good Men, if the Company would make choice of ſome Farmers and Tradeſmen of good Repute and In<g ref="char:EOLhyphen"/>tereſt in the Country, to be Perſons of inferiour Charge in the Colony, for every One would find abundance of his Acquaintances to go along with him, and would be much fitter to Di<g ref="char:EOLhyphen"/>rect
+<pb n="61" facs="tcp:96190:35"/> and Overſee the Work of theſe under his Command, than disbanded Officers, and Gentlemen unacquainted with Labour.</p>
+               <p>As to what may be Objected, touch<g ref="char:EOLhyphen"/>ing their unfitneſs in Military Service, 'twas ſhown already, that there is no Danger of an Attack by Land, and I ſhall by and by give my Opinion how they ſhall be ſecured againſt any At<g ref="char:EOLhyphen"/>tempt by Sea; But grant there ſhould be Martial Action, theſe Labourers may be as fit for that Service as the other, provided they have a few Ex<g ref="char:EOLhyphen"/>perienced Officers to head them, of which there are abundance already there.</p>
+               <p>Beſides theſe already in the Settle<g ref="char:EOLhyphen"/>ment, iuppoſe Twelve or Fifteen Hundred Good Men may be ſufflcient for the Stock of a Colony, able to de<g ref="char:EOLhyphen"/>fend the ſame, and Cultivate the Ground, that it may be capable not only to affoord Proviſions to them<g ref="char:EOLhyphen"/>ſelves, But likewiſe or all other that
+<pb n="62" facs="tcp:96190:36"/> ſhall ſettle there, And to affoord <hi>Ame<g ref="char:EOLhyphen"/>rican</hi> Plantation Goods for tranſport<g ref="char:EOLhyphen"/>ing hither; And within a Year or two ſo much of the Ground may be Clear<g ref="char:EOLhyphen"/>ed and Cultivated, that whole Fami<g ref="char:EOLhyphen"/>lies may be tranſported thiter. For this end Seeds of ſeveral Herbs and Roots, as alſo Corn would be ſowen there, with all poſſible ſpeed, that the Expence of ſending Proviſion hither, may no longer be a Burden to the Company.</p>
+               <p>Some ſay our Corn by reaſon of the ſtrength of the Ground, ſhuts up to a Wonderful hight, but is not Fruitful.</p>
+               <p>I cannot poſitively ſay, what may be the Nature of that Ground, but I am apt to believe this proceeds more from want of Skil in Husbandry, than from any Defect in the Corn, for Sir <hi>Walter Raligh</hi> gives Account, that in the Province of Baby lon the Ground is ſo Fertile, that it bears 200 Fold, yet they have it Sowen with Wheat
+<pb n="63" facs="tcp:96190:36"/> like what we have here, which he ſays grows to the height of Trees, and is unfruitful if let alone, but that the Husband-Men Cropt ir twice with Hooks, and once by Sheep, by which means it is keept low, and is exceeding Fruitful, This may be tried, and if it won't do, ſuch Corn as is com<g ref="char:EOLhyphen"/>monly uſed in the <hi>Indies</hi> muſt be made uſe of. Some Cattle would alſo be taken there as ſoon as poſſible.</p>
+               <p>If at Sea they have their Ships that went on the firſt and ſecond Expedi<g ref="char:EOLhyphen"/>tion, together with theſe three Fri<g ref="char:EOLhyphen"/>gots that were made uſe of in the late War upon our Coaſts, well Man'd, I dobut not but they are able to oppoſe the ſtrongeſt Naval Force <hi>Spain</hi> can make againſt them.</p>
+               <p>The Expence of Equiping and men<g ref="char:EOLhyphen"/>taining theſe Ships, will not exceed the Money mentioned to be lent to the Company, for ſeveral Years, and I doubt not but e're a full Year Ex<g ref="char:EOLhyphen"/>pire, that the <hi>Spaniards</hi> will be obli<g ref="char:EOLhyphen"/>ged to agree to reaſonable Terms,
+<pb n="64" facs="tcp:96190:37"/> which if they do not, Our Colony will be in a Condition to ſeize upon their Mines in thoſe Parts, for as is ſaid the Men that are already in the Colony, with 1200 ot 1500 more, can oppoſe any Force the <hi>Spaniards</hi> can make againſt them, and thoſe at Sea will be in a Condition to meet with their Fleet when they liſt.</p>
+               <p>Some hard dozen of Advice <hi>Boats,</hi> or light <hi>Veſsels</hi> to run too and from the <hi>Colony,</hi> would alſo be of great Uſe, the want of which hitherto has been pre<g ref="char:EOLhyphen"/>judicial to the Company.</p>
+               <p>Here you ſee a conſiderable Num<g ref="char:EOLhyphen"/>ber of theſe Notes may be diſpoſed of to Advantage but becauſe it may be ſaid, theſe Notes can only ſerve amongſt our ſelves but can be of no uſe beyond the Limits of this King<g ref="char:EOLhyphen"/>dom. I ſhall ſhow that there will not be any great Occaſion for them with<g ref="char:EOLhyphen"/>out the Kingdom, but becauſe it may be alſo objected in other caſes, I ſhall referr it to another Place, and there give an Anſwer to all together.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="65" facs="tcp:96190:37"/>
+               <head>SECTION II. <hi>Which Reſpects Manufactures.</hi>
+               </head>
+               <p>MOſt Nations in Europe Endea<g ref="char:EOLhyphen"/>vour to Cultivat Manufact<g ref="char:EOLhyphen"/>ures to as great a height as they can, and that not only by the Induſtry of Privat Perſons, but alſo by Laws and other publick Encour<g ref="char:EOLhyphen"/>agements.</p>
+               <p>That this is the Intereſt of every Kingdom and Common Wealth, is to obvious to need any Proof, for not only is it the Opinion of moſt Men and Encouraged and required by the Laws of all well Governed Common Wealt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, but even by Divine Precept In<g ref="char:EOLhyphen"/>duſtry is enjoyned. Nevertheleſs it has been too much neglected in this King<g ref="char:EOLhyphen"/>dom, to our great Loſs and Reproach.</p>
+               <p>It is well known, that the Inhabi<g ref="char:EOLhyphen"/>tants of this Kingdom are as Ca<g ref="char:EOLhyphen"/>pable
+<pb n="66" facs="tcp:96190:38"/> to Undergo Labour and Fati<g ref="char:EOLhyphen"/>que, and to perform Mechanick Ope<g ref="char:EOLhyphen"/>rations as moſt People in Europe, and that Our Soil and adjoining Seas produce what may make us Live as Comfortably as any People in the World.</p>
+               <p>'Tis true, Our Soil is not ſo Fertile as in many other Countrys, (yet in another Place I have ſhowen that it may be made much more Fruitful than it is) but thus ſays nothing to other induſtry.</p>
+               <p>The Seas which bound Our Coaſt, abound with Fiſhes of ſeveral ſorts, particularly Herrings, of which <hi>I</hi> be<g ref="char:EOLhyphen"/>leive no Place of the World can boaſt of greater Plenty.</p>
+               <p>How many Thouſands of Peopl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that live idle, might be imployed in Fiſhing, and tho we have not at pre<g ref="char:EOLhyphen"/>ſent ſuch a way to Export Our Fiſhes yet ſeveral Methods may be fallen on to Encreaſe Trade that way, parti<g ref="char:EOLhyphen"/>cularly that Encouragement may be
+<pb n="67" facs="tcp:96190:38"/> given to the <hi>Dutch,</hi> who are well ac<g ref="char:EOLhyphen"/>quainted in that Trade, to come and ſettle amongſt us, and that Towns and Harbours be Built alongs the Shoar, at Places moſt convenient for Fiſhing.</p>
+               <p>This perhaps may be rejected by ſome as a thing prejudicial, to ſuffer ſtrangers to ſettle among us, and to allow them the Priviledge of Natural Born Subjects, but if it be conſidered, that thoſe People that come from For<g ref="char:EOLhyphen"/>reign Parts to reſide amongſt us, be<g ref="char:EOLhyphen"/>come one People with our ſelves in a ſhort time, that what proſites they make, tend to the Enriching and ſtrengthning of the Nation, as much as that which is acquired by Natural Born Subjects. That in rhe mean time thoſe People bring us to a way of Trading wherein we are but little acquainted, and that which is more, while we give them not Encour<g ref="char:EOLhyphen"/>agement to dwell amongſt us, they follow the ſame Trade, taking the
+<pb n="68" facs="tcp:96190:39"/> Fiſh upon Our Coaſts, and carrying them where they liſt, while we Reap no part of the <hi>Profit,</hi> I think all rea<g ref="char:EOLhyphen"/>ſonable Men will readily acknowledge that the leaſt of theſe Inconvenien<g ref="char:EOLhyphen"/>cies is to allow them to ſettle amongſt us.</p>
+               <p>But I am perſwaded no ſuch incon<g ref="char:EOLhyphen"/>veniencie follows the Tollerating of Strangers amongſt us, as is commonly believed, I am perſwaded it were the intereſt of the Nation to allow For<g ref="char:EOLhyphen"/>reigners as ample Priviledges as Na<g ref="char:EOLhyphen"/>tural Born Subjects, I ſhall put the caſe whether is it not better that <hi>French</hi> Reſugees that are obliged to abandon their Native Country, for not con<g ref="char:EOLhyphen"/>forming themſelves to the Idolatries and Superſtitions of the Church of <hi>Rome</hi> be Encouraged to ſettle among us. ſor ſetting up Silk Manufactures, and others wherein we are but little acquainted, as to ſend our Money out of the Kingdom to purchaſe theſe Commodity's, and thereby ſtrengthen
+<pb n="69" facs="tcp:96190:39"/> ſuch as are Enemies to Our Nation and Religion.</p>
+               <p>Here it may not be impertinent to Enquire into the Freedom or Privi<g ref="char:EOLhyphen"/>ledges of Citys, Burghs, and Corpo<g ref="char:EOLhyphen"/>tations, whether it doth not more Obſtruct as advance the honour, Wealth, and Popolouſneſs of them, that there is ſuch hard Conditions and Reſtrictions to obtain Communi<g ref="char:EOLhyphen"/>cations or Freedom in Trade.</p>
+               <p>In my Opinion, ſuch Reſtrictions and Qualifications required of ſuch as would partake of their Priviledges, are very prejudicial to the Corpora<g ref="char:EOLhyphen"/>tions themſelves; My reaſon for it is, that the more populous a City is, ſo much is it the better for the In<g ref="char:EOLhyphen"/>habitants in general; Let any Man take a Survey of all the Citys or Towns he knows, and ſee whither this does not hold in general; Now the requiring of hard Conditions of thoſe that would incorporat, is cer<g ref="char:EOLhyphen"/>tainly a great Impediment to Incorpo<g ref="char:EOLhyphen"/>rating.</p>
+               <pb n="70" facs="tcp:96190:40"/>
+               <p>The Objections I know againſt this are, we bought our Previlage dea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, either with our Mony o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> long Apren<g ref="char:EOLhyphen"/>tiſſips, or both. We have it derived to us by our Anceſtors or the like, and therefore if others that have not Purchaſed it ſo dear, ſhall be admit<g ref="char:EOLhyphen"/>ed, they ſhall ſhare in the Profits, that we expect to make, and couſe quently prejudge us, of as much as they ſhall gain.</p>
+               <p>By whatever means, thoſe who have the preſent previlege, have pro<g ref="char:EOLhyphen"/>cured it, it is not to the purpoſe, if the Admiting of others on eaſier terms be not prejudical, but on the Con<g ref="char:EOLhyphen"/>trair profitable to the former, then have they no cauſe to rejict the latter. But ſo it is, that by admiting of every on that pleaſes, is the advantage of all.</p>
+               <p>To make this evident, let any per<g ref="char:EOLhyphen"/>ſon make a Calculation, whither there be more Tradeſmen of all ſorts in <hi>E<g ref="char:EOLhyphen"/>dinburgh</hi> or <hi>Muſselburgh,</hi> I belive with<g ref="char:EOLhyphen"/>out
+<pb n="71" facs="tcp:96190:40"/> much enquiry the majoritie will be granted to <hi>Edinburgh.</hi>
+               </p>
+               <p>Let is next be enquired, whither the Inhabitants or Tradeſmen in <hi>Ediu<g ref="char:EOLhyphen"/>burgh</hi> or <hi>Muſſelburgh,</hi> be moſt woal<g ref="char:EOLhyphen"/>thy, and have the beſt Trade, I ſu<g ref="char:EOLhyphen"/>poſe alſo, the Prehemmence will be given to <hi>Edinburgh.</hi>
+               </p>
+               <p>But ſome ſays, what's that to the purpoſe <hi>Edinburgh</hi> is the Capital City of the Kingdome, the State of Superi<g ref="char:EOLhyphen"/>or Judicators, which occations the frequent Conflouance of People to that Place.</p>
+               <p>Let them next enquire of the ſtate of <hi>Glaſgow, Aberdeen, Dundee, Montroſe,</hi> or any other Town they pleaſe, and if it be found in all theſe, that the more populous the place is, the more weal<g ref="char:EOLhyphen"/>thy the Inhabitants are, 'twill be no abſurd Conſequence, to belive, that the Inhabitants of any on particular Town, ſhould become the more wealthy, as the City grows populous.</p>
+               <p>I ſupoſe it will be eaſily granted
+<pb n="27" facs="tcp:96190:41"/> that to tolerate all that pleaſe to come and reſide in Burghs, to Traſfique and follow other Vocations, may be a ready expedient to make them popul<g ref="char:EOLhyphen"/>ous; and upon ſtrict Enquiry 'twill not be found prejudicial to any particular Calling or Corporation; For I make a Suppoſition, that upon Liberty grant<g ref="char:EOLhyphen"/>ed to all perſons to ſet up in Citys and Corporations for a ſmall Ackow<g ref="char:EOLhyphen"/>ledgement, it would bring in ſix Man<g ref="char:EOLhyphen"/>ſions to this place: But ſays ſome of that Employment. we are at a great Loſs, for ſo many Men will take away a great deal of our Profit; but if it be conſidered. that at the ſame time, Twenty Merchants, Ten Smiths, ſix Wrights, Ten Tailors, and proporti<g ref="char:EOLhyphen"/>onable of every Trade and Calling come hither, by which means the In<g ref="char:EOLhyphen"/>habitants are conſiderably Encreaſed, ſo that the new Incomers will be Sub<g ref="char:EOLhyphen"/>ject of Imployment to one another; As for Example, if all theſe new Inhabi<g ref="char:EOLhyphen"/>tants ſhall Employ theſe Ten Tailiors,
+<pb n="73" facs="tcp:96190:41"/> the New come Shoe-Makers, <hi>&amp;c.</hi> There will be no Occaſion of their being imployed by the old Reſiden<g ref="char:EOLhyphen"/>ters.</p>
+               <p>Much might be ſaid, and Examples given, both For <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eign and Domeſtick <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> infor<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this; As for inſtance, let any inquire into the State of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rewars and Bakers of <hi>Edinburgh,</hi> The Bakers have a Priviledge amongſt themſelves, that none but ſuch as ſerve Aprentiſhip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to them, or that Marry Free-men; Daughters, can be received into their Corporation; As to the <hi>Brew<g ref="char:EOLhyphen"/>ers</hi> there is no <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trant, any Man may follow that Imployment that pleaſes; yet it's obvious that the firſt are not E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hed by their great Privi<g ref="char:EOLhyphen"/>ledges, nor the latter the poorer that they can de ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> none from following that Voc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tion, but on the contrary the latter is an a much more proſperous Condition than the former.</p>
+               <p>If this Example have no weight be<g ref="char:EOLhyphen"/>cauſe it is too Private, Familiar and
+<pb n="74" facs="tcp:96190:42"/> Domoſtick, look but over to <hi>Spain</hi> and <hi>Holland,</hi> ye will ſee that the former are very ſtrict and nice in vouchaf<g ref="char:EOLhyphen"/>ing Priviledge of Naturalization, and the latter ſo lax that they refuſe none, which is doubtleſs one of the ſtrong<g ref="char:EOLhyphen"/>eſt Reaſons that can be given why they are ſo Populous and Rich.</p>
+               <p>Shiping is a thing we much want, and that which greatly encreaſſes the Strength, Wealth and Honour of a Nation, this we may have encreaſſed greatly by the ſtricking of Notes as was deſcribed in the preceeding Chap<g ref="char:EOLhyphen"/>ter; For not only may a conſiderable value of theſe Notes be Lent to a Company that ſhall be Erected for Building Ships, but I think it were ve<g ref="char:EOLhyphen"/>ry convenient that a Law ſhould be made Prohibiting of any Ships under certain Penalties to Trade to this King<g ref="char:EOLhyphen"/>dom but what are Built within it after ſuch a day.</p>
+               <p>I doubt not but at firſt view this may ſeem to be a very abſurd o<g ref="char:EOLhyphen"/>pinion
+<pb n="75" facs="tcp:96190:42"/> conſidering that we want Wood; Nevertheleſs ſeeing that which will buy one Ship Equipt and ready to put to Sen, will Buy Wood for four, tho I had ſaid Six perhaps I had not been much by the way;) and there is abundance of People in the King<g ref="char:EOLhyphen"/>dom that may be Employed to Build them, and the ſame Mariner<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which will ſerve to bring home a new Ship may bring home Wood to be one in another Ship, for I believe any Veſſel is capable to bear as much Wood in her Hould as will build a<g ref="char:EOLhyphen"/>nother of her own Burthen; and there is a vaſt difference between the value of the Money or Goods given for a Ship Equipt, and the Materials to make it of.</p>
+               <p>That Shipping may be here equipt, 'twill be neceſſary that Encourage<g ref="char:EOLhyphen"/>ment be given to Carpenters, ſome from Abroad, and chiefly that others at home may be Bred to that Employ<g ref="char:EOLhyphen"/>ment; and it were very commendable
+<pb n="76" facs="tcp:96190:43"/> that Gentlemen who are not able to provide their Sons to ſuch Portions as they can live on ſuteable to their Quality. would breed them to this or ſome other honeſt Employment, rather than that they ſhould be obliged to go and carry Arms in the Service of Forreign Princes; and ſome Gentlemen who are in Conditi<g ref="char:EOLhyphen"/>on to provide their Children to hand<g ref="char:EOLhyphen"/>ſome Livings, would do well to give Example in this Matter, for common<g ref="char:EOLhyphen"/>ly Mechanicks or Tradeſmen are ſo much deſpys'd, that thoſe who would be reouted Gentlemen think it be<g ref="char:EOLhyphen"/>low them to apply themſelves to ſuch Employments.</p>
+               <p>This will be a great Mean to pro<g ref="char:EOLhyphen"/>mote the Wealth, Honour, and Strength of the Nation, for not only might many of our Country-Men, That go Abroad for a Lively hood re<g ref="char:EOLhyphen"/>main at home, to be Employed in the Service of the Nation upon Occaſion, but likewiſe much Wealth that is
+<pb n="77" facs="tcp:96190:43"/> given for Forreign Commodities would be kept at home; and if Gentlemen or People of any Tolerable Stocks did Apply Themſelves this way, they would certainly be more Capable to advance Trade than the meaner Sort of People bred to thoſe Employments, who after having ſerved their Ap<g ref="char:EOLhyphen"/>prentic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhips have little or no Stock; and therefore can do but little to pro<g ref="char:EOLunhyphen"/>pogate Trade, whereas others who have but little Stock to follow a Gentleman Employment, would have enough to ſet up as a Mechanicks, and in the Account of all conſidering Perſons the beſt of the meaneſt Em<g ref="char:EOLhyphen"/>ployment is preferable to the meaneſt of the beſt.</p>
+               <p>There would likewiſe be ſome pains taken to bred up the Youth of poor People, that are not able to put them to Trades, even at the Expence of the Publick. A ſmall part of the 15000 <hi>L.</hi> Excreſſions on the Annual Profit of the Notes formerly mentioned.
+<pb n="78" facs="tcp:96190:44"/> would go a great length this Way, and many that Live in Penuary and are a Burden to the Nation, might by this means ſupport themſelves handſomely and be Serviceable to the Nation.</p>
+               <p>There will not be ſo great Difficulty in finding Carpenters as ſome are apt to believe, for a few Expert Trades-Men to direct, would perform a great deal of Work by the Hands of others, who have little Knowledge in that Imployment. Any perſon that can handle an Ax by their Direction, is Capable to do moſt of the Work be<g ref="char:EOLhyphen"/>longing thereto, and Maſters of this and all other Imployments we are leaſt acquaint in would be got at any Rate.</p>
+               <p>Much might be ſaid on this Subject, and doubtleſs it's worth the Conſider<g ref="char:EOLhyphen"/>ation of the Honourable Eſtates of Parliament to think on Ways and Means, and to make Laws for the Encouragement of Manufactures of all ſorts within this Kingdom; It's a pity that ſo great a Number of Inhabitants
+<pb n="79" facs="tcp:96190:44"/> that might be Serviceable to the Na<g ref="char:EOLhyphen"/>tion, ſhould be ſo great a Burden to it, ſome of them actually Begging, Others Loi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ering about ſome Cottage in a Sterving Condition, and many following ſilly Imployments, whereas they might be more Uſeful to them<g ref="char:EOLhyphen"/>ſelves, and the Nation in other Ca<g ref="char:EOLhyphen"/>pacities.</p>
+               <p>The Scarcity of Money having Ren<g ref="char:EOLhyphen"/>dered many good Deſigns impracti<g ref="char:EOLhyphen"/>cable or ineffectual, being Supplied by the Uſe of the foreſaid Notes, it will be no hard Matter to get Manu<g ref="char:EOLhyphen"/>facture<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Erected; For ſeveral Com<g ref="char:EOLhyphen"/>pany's being Formed, may borrow of theſe Notes upon Intereſt, for Carry<g ref="char:EOLhyphen"/>ing on their Trade.</p>
+               <p>If a Company for Building Ships were Eſtabliſhed, I ſuppoſe they might have occaſion to Employ 100000 <hi>L. Starling</hi> to carry on that Trade. A Company for Fiſhing would require twice as much, and many other Ma<g ref="char:EOLhyphen"/>nufactures would require conſiderable
+<pb n="80" facs="tcp:96190:45"/> Sums to ſet them up, againſt which none can make Objections for want of Money, for this may be Supplyed by Notes as is ſaid, which the ſe<g ref="char:EOLhyphen"/>veral Companys may borrow upon In<g ref="char:EOLhyphen"/>tereſt.</p>
+               <p>But becauſe ſome may aledge Buſſi<g ref="char:EOLhyphen"/>neſs cannot be ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>yed on by thoſe Notes ſince they will not be received in Payments but only within the King<g ref="char:EOLhyphen"/>dom, and that there will be occaſion for paying conſiderable Sums Abroad for ſeveral Commondity's to Erect and Propogate ſuch Manufactures, as al<g ref="char:EOLhyphen"/>ſo for mantaining the <hi>African</hi> and <hi>In<g ref="char:EOLhyphen"/>dian</hi> Company us was for<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erly hi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ed. To this 'tis Anſwered.</p>
+               <p>
+                  <hi>Firſt.</hi> A Fiſhing Company will not have occaſion to Diſpu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe any conſi<g ref="char:EOLhyphen"/>derable Sums in Forreign parts, but on the con<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>air will have conſiderable Incomes from thence. <hi>2dly.</hi> What the other Manufactures will require will be much leſs than what is given out for the Commodities that are now
+<pb n="81" facs="tcp:96190:45"/> bought Abroad, which may then be by them prepared at home. <hi>3dly.</hi> What the <hi>Indian</hi> and <hi>African</hi> Compa<g ref="char:EOLhyphen"/>ny will need to give out in Forreign parts will not be much, for all their Mariners and others that receive wa<g ref="char:EOLhyphen"/>ges may be pay'd, and their Ships Victualed here, till the Colony be in a condition to affoord them Proviſi<g ref="char:EOLhyphen"/>ons, ſo that there will be no need of ſending Money out of the Kingdom for their Support, but for Refitting and putting to Sea their two Ships at <hi>New-York</hi> and <hi>Jamaica,</hi> and that is inconſiderable in reſpect of what may be raiſed by the ſaid Notes. And <hi>laſtly,</hi> conſidering that as the Matter ſtands we have occaſion to Export as much Goods as purchaſeth all foreign Commoditys we want, it may be Ra<g ref="char:EOLhyphen"/>tionally concluded after Manufactu<g ref="char:EOLhyphen"/>res of all ſorts are here Erected, eſpe<g ref="char:EOLhyphen"/>cially Fiſheries, our Export will be much greater, and Import much leſs, for as has been ſaid, Goods Manufac<g ref="char:EOLhyphen"/>tured
+<pb n="82" facs="tcp:96190:46"/> coſt much more Abroad than the Mattetials of which they are made. From all which 'tis viſible that whatever Notes are Struck and Cir<g ref="char:EOLhyphen"/>culated in manner as above repreſen<g ref="char:EOLhyphen"/>ted, is ſo much clear Gain to the Na<g ref="char:EOLhyphen"/>tion. And tho it was ſuppoſed that there might be only occaſion for raiſ<g ref="char:EOLhyphen"/>ing a Million <hi>Starl:</hi> Money of them, yet I doubt not but three times as much might be raiſed that way, if Manufactures were encouraged as is ſaid, and what a vaſt profit this may be to the Nation, beſides the profit arriſing from Fiſheries and Manufact<g ref="char:EOLhyphen"/>ures let any Perſon conſider.</p>
+               <p>Manufactures may not only be ſet up and Encouraged to the great Bene<g ref="char:EOLhyphen"/>fit of the Nation, but ſeveral other things may be done to promote the welfare thereof, ſuch as taking efectual Meaſures to prevent the Ex<g ref="char:EOLhyphen"/>port of Wooll, the Import of Forreign Woollen-Cloth and other Commodi<g ref="char:EOLhyphen"/>tys that may well be wanted; togeth<g ref="char:EOLhyphen"/>together
+<pb n="83" facs="tcp:96190:46"/> with many other things that no doubt the Wiſdom of the Parliament will find convenient and profitable for the Leiges.</p>
+               <p>I thought to have touched ſeveral other things of this Nature, but not knowing how this may be accepted, and being unwilling to be tedious,. I ſhall at preſent forbear, and give ſome Directions, to the effect that all in their ſeveral Ranks and Capacity's, may live comfortably in the World.</p>
+            </div>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III. How all Ranks and Degrees of People may Live Comfortably.</head>
+            <div n="1" type="section">
+               <head>SECTION I. <hi>Which Reſpects the Poor.</hi>
+               </head>
+               <p>IT being hardeſt for thoſe of the meaneſt Degree to live Comfor<g ref="char:EOLhyphen"/>tably,
+<pb n="84" facs="tcp:96190:47"/> I ſhall begin with them, and proceed Gradually, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill <hi>I</hi> come to thoſe of the heigheſt.</p>
+               <p>When I ſay every one may live Comfortably, 'tis not to be thought I mean every one may have all the Comforts of this Life at his Pleaſure, my meaning is (and that which is the propper meaning of the Words) that every one may have neceſlars Suteable for one in the Rank it has pleaſed GOD to place him. If any can ad<g ref="char:EOLhyphen"/>vance his Fortune by Vertue and in<g ref="char:EOLhyphen"/>duſtry 'tis well, but <hi>I</hi> know no Rule that can be given to make all Men Rich, for that were not only contrair to the Order GOD has Eſtabliſhed, and Foretold, that there ſhall alwiſe be ſome Poor in the World, but alſo is in its own Nature impoſſible, for as one increaſſes in Riches, ſome others muſt Decraſe as Natively asone Scale of a Ballance goes up when the other is preſſed down. Happineſs doth not conſiſt in the having of abundance of
+<pb n="58" facs="tcp:96190:47"/> this World's good things, a Perſon following a Plow, or driving a Cart all Day, and going Home to his courſe Fare and mean Cortage at Night, may have as much Satisfaction as the great<g ref="char:EOLunhyphen"/>eſt Pear or Prince, And that every one may have Food and Raiment fit for him, is what <hi>I</hi> ſhall Endeavour to make appear.</p>
+               <p>It hath been the Unhappineſs of this Kingdom, that great Numbers of Beg<g ref="char:EOLhyphen"/>gers hath been Tolerated to go up and down Begging, from whence many inconveniencies proceed, for not only do many Vagatants and Luſty perſons able to Work, go about asking Alms, but likewiſe many lew'd Practices are amongſt them committed without Cenſure, they not being under the particular inſpection of ſuch as ought to Curb Vice.</p>
+               <p>Several Acts have been of late In<g ref="char:EOLhyphen"/>ſhued out by the Lords of his Maje<g ref="char:EOLhyphen"/>ſty's moſt Honourable Privy Council, for the Regulating of Beggers, and
+<pb n="86" facs="tcp:96190:48"/> providing for ſuch as are not able to mantain-themſelves, but hitherto theſe Acts have not taken effect, partly in that thoſe who ought to put the ſame in Execution, are not ſo diligent in that behalf as could be wiſhed; And part<g ref="char:EOLhyphen"/>ly through the indulgent Temper, and Charitable Diſpoſition of many Peo<g ref="char:EOLhyphen"/>ple that cannot forbear to give Alms to the begging Poor, that ſo frequent<g ref="char:EOLhyphen"/>ly Accoaſt them (many of whoſe Faces plead pity) not conſidering that this manner of Treatment Encourageth the Beggers to neglect the Entertainment they would get in Hoſpitals, and alſo o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ens a Door to Vagarants, (or as 'tis Vulgatly Phrazed <hi>Ranney Beggars)</hi> to go through Begging, who often by their importunity, gets more Alms than theſe who are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot able to Work for their Suſtinence.</p>
+               <p>But that they may be Supplied in the moſt equal way; is what ought Undoubtedly to be ſtudied, and to
+<pb n="87" facs="tcp:96190:48"/> put in Execution the ſeveral Acts alrea<g ref="char:EOLhyphen"/>dy Emited to that effect, no doubt will be a good mean, but I humbly Con<g ref="char:EOLhyphen"/>ceive, ſeveral things might be done to Facilitat the ſame, <hi>Viz.</hi>
+               </p>
+               <p>Firſt, That there be a certain Num<g ref="char:EOLhyphen"/>ber of Men, ſuch as Deacons of the Church and other honeſt Neighbours, appointed to Enquire into the Conditi<g ref="char:EOLhyphen"/>on of all thoſe within their ſeveral bounds, ſo that they may Verily know who are Objects of Pity and who not, in Order to inform the Magiſtrats of Burghs, Sheriſſs, <hi>&amp;c.</hi> who are ap<g ref="char:EOLhyphen"/>pointed by the Council to take care therein.</p>
+               <p>Secondly, When any are found Begging within their Bounds to ſeize them furthwith, and ſend them to the place of their Nativity, Others would herein alſo Concur, and at leaſt inform ſome of theſe appointed to take notice of the Poor, when they come abroad, for it will be hard to get this effectu<g ref="char:EOLhyphen"/>ate, if People indulge Beggers and give
+<pb n="88" facs="tcp:96190:49"/> them Alms, except in Hoſpitals, or ſome other Orderly way.</p>
+               <p>Thirdly, When any ſhall leave the Hoſpital or place of his Nativity, after being once ſent thither, let him be brought back and Chaſtiſed by ſtricter Confinement, more Scrimp allowance, or otherwiſe as ſhall be moſt Expedi<g ref="char:EOLhyphen"/>ent, and upon a ſecond Diſertion pun<g ref="char:EOLhyphen"/>iſhed more Severely.</p>
+               <p>Fourthly, The Poor of thoſe parts where they are moſt Numerous, would be ſupply'd from other places, for commonly the Shire or Paroch in which the Poor abound moſt, is leaſt able to ſupply them, for it is but reaſ<g ref="char:EOLhyphen"/>onable, every one ſhould bear a ſhare of that Burden throughout the whole Kingdom, proportionable to their Ability's. It were therefore very con<g ref="char:EOLhyphen"/>venient, that ſuch a Correſpondence ſhould be ſettled amongſt all the Shires in the Kingdom, that the State of the Poor and Condition of the In<g ref="char:EOLhyphen"/>habitants were Communicated to one
+<pb n="89" facs="tcp:96190:49"/> another, and let Contributions be ſent from the ableſt to ſuſtain the Poor of thoſe parrs where they are moſt Numerous.</p>
+               <p>
+                  <hi>5thly,</hi> What is appointed for the Poor for the moſt part would be be<g ref="char:EOLhyphen"/>ſtowed on Proviſions to be Diſtributsd for their Suſtainance, for this being the way the Poor muſt beſtow it them<g ref="char:EOLhyphen"/>ſelves, it is to be preſum'd great quantitys of Proviſions can be bought Cheaper than ſmall, and whatever is given leſs for them in Bulk than the Poor would do in retail, is ſaved, and thoſe who are not put into Hoſpitals, but need ſome Monthly or Weekly Charity beſides what Induſtry they can make, would alſo be ſup<g ref="char:EOLhyphen"/>plyed out of theſe Proviſions.</p>
+               <p>If this were but one year (or per<g ref="char:EOLhyphen"/>haps leſs) put in practice, it would be no hard Matter to reſtrain vagarat Beg<g ref="char:EOLhyphen"/>gers in all time coming, that Cuſtom being once intirely ſupreſſed, few would atempt it and none would En<g ref="char:EOLhyphen"/>courage
+<pb n="90" facs="tcp:96190:50"/> this manner of Begging. But by all means care would be taken, that none truely Objects of Charity be neglected even tho the Contributions ſhould not come in punctually for that end, theſe Intruſted with the overſight of the Poor moſt not let them want, and Meaſures would be concerted to Refound them, otherwiſe it is impoſſible ever to ſuppreſs the beeging Poor, for if the Poor be o<g ref="char:EOLhyphen"/>bliged to leave any Hoſpital for want of Entertainment, a Door is opened to let all Vagarants looſe.</p>
+               <p>The Difficultys objected againſt the Proſecution of this Buſſineſs, I Judge may be chiefly. That many People u<g ref="char:EOLhyphen"/>pon the Inportunat Demands of Beg<g ref="char:EOLhyphen"/>gers will give <hi>Alius,</hi> that will not give Monthly or Quarterly Contributions, That when Beggars come about they may be Refreſhed with broken Meat, and otherwiſe ſuppleed more inſencib<g ref="char:EOLhyphen"/>ly than by Monthly or Quarterly Contributions.</p>
+               <pb n="91" facs="tcp:96190:50"/>
+               <p>Both theſe may be in part true, yet do not contravail the Inconvenionces above montioned, in Tolorating a great number of <hi>Ranie Beggers</hi> who perhaps obtain thrice as much <hi>Alms</hi> as would ſupport the like number of neceſſitous Perſons, and beſides, thoſe whe are able to Contribute may be be compelled if they Refuſe to give freely according to their Abilitys; I know not whither there be any ſtand<g ref="char:EOLhyphen"/>ing Law to that Effect, but I think it very Equal that ſuch as have a<g ref="char:EOLhyphen"/>boundance ſhould be compelled to give part to the Poor if they refuſe to do it voluntarly, and to that end a Law may be made if it is not already.</p>
+               <p>If it be ſaid that it will be hard to get all the Beggers ſent to their Reſ<g ref="char:EOLhyphen"/>pective places of Nativity or Places where they have long reſided, in Reſ<g ref="char:EOLhyphen"/>pect ſome of them have no certain place of Aboad, and will be diſowned by every place.</p>
+               <p>The matter will not be very much in
+<pb n="92" facs="tcp:96190:51"/> what Hoſpital they be ſottled if a Liſt of all the Poor in the Kingdom be taken once every year <g ref="char:punc">▪</g> and every Shire appointed to keep ſo many of them according to their Abilities, and this I Judge a better way than re<g ref="char:EOLhyphen"/>quiring every one to keep its own Poor, tho at the ſame time this may be done as near as can be, and there would alſo be Meaſures laid down that ſuch who advance any thing for Maintainance of the Poor may be at no loſs that way.</p>
+               <p>Theſe who are born of poor People that have not whereupon to ſuſtain and Educat them, are Undoubtedly. Objects of Charity, and ought to be taken care of, and ſupplyed by others to whom GOD hath beſtowed Sub<g ref="char:EOLhyphen"/>ſtance; and to Educat and put ſuch of them to Apprentiſhips as are capable of inſtruction, and able to work; Would not only be an Act of Charity to them, but like ways free the Kingdom of the Burden of mantaining them for the ſu<g ref="char:EOLhyphen"/>ture.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="93" facs="tcp:96190:51"/>
+               <head>SECT. II. <hi>Which Reſpects Servants and other Per<g ref="char:EOLhyphen"/>ſons of low Degree.</hi>
+               </head>
+               <p>I Shall not enter upon the Duty of Servants in Relation to their Ma<g ref="char:EOLhyphen"/>ſters, that which I intend being only to ſhew that People who have no manner of Subſtance beſides their Appare, may by their Induſtry live Honeſtly and Comfortably; the Mat<g ref="char:EOLhyphen"/>ter is plain to the Obſervation of eve<g ref="char:EOLhyphen"/>ry one, the greateſt part of Men being in ſuch Circumſtances, and if it be poſſibie for thoſe that have nothing to live comfortably. it is eaſie for others to live Comfortably alſo.</p>
+               <p>But ſays ſome, It is eaſie for thoſe that are in Service to be ſupplyed, but others that are not in Service will find it more hard to ſuſtain themſelves.</p>
+               <pb n="94" facs="tcp:96190:52"/>
+               <p>People that are Sound and in health, can ſcarce ever want Employment, un<g ref="char:EOLhyphen"/>leſs ſuch as have been inured to Idleneſs and won't apply themſelves to Work, or otherways by their Undutiful Be<g ref="char:EOLhyphen"/>haviour render themſelves unworthy to be employed, and in this Caſe 'tis their own fault if they be ſtraitned.</p>
+               <p>But if Manuſactures be encouraged there will be more Work for all ſorts of People than hands will be got, and ſuch as are able and will not apply themſelves to Work, deſervedly ſuffer for their Negligence when they are pinched.</p>
+               <p>I know ſome People will not be alto<g ref="char:EOLhyphen"/>gether ſit to work in Manufactures to which they are not accuſtomed, but nevertheleſs they may aſſiſt others that are Expert, and through time become capable to perform the moſt difficult parts of the Work without direction.</p>
+               <p>By their Labour they may earn 6, 8, or 10 pence a day, more ot leſs, ac<g ref="char:EOLhyphen"/>cording to the manner of the Work
+<pb n="95" facs="tcp:96190:52"/> they are employed about, and as they are capable to perform.</p>
+               <p>According to their Incomes they may proportion their ſpending the leaſt being ſufficient for their Mantainance; For it is evident, that ſuch as can and are able to work, may earn as much as may ſuſtain them. I need not enquire how much this may be, it being demon<g ref="char:EOLhyphen"/>ſtrated in the Experience of Multitudes, that theſe who apply themſelves to work live by their Induſtry, even tho the Employment they follow be mean</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III <hi>Which Reſpects Mechanicks, Husband<g ref="char:EOLhyphen"/>men,</hi> &amp;c.</head>
+               <p>TRADESMEN, Farmers and O<g ref="char:EOLhyphen"/>thers of the like Imployments, being a Degree above the Com<g ref="char:EOLhyphen"/>mon ſort of Servants, come in the next Claſs to be ſpoken of; And tho their
+<pb n="96" facs="tcp:96190:53"/> Condition may ſeem to be better than the former, yet many times ſome of them are more ſtraitned than Servants themſelves, by Reaſon of ſome Acci<g ref="char:EOLhyphen"/>dents happening contrary to their Ex<g ref="char:EOLhyphen"/>pectations.</p>
+               <p>To prevent Accidents no Rule can be given; Nevertheleſs if People of theſe Employments be careful and Cau<g ref="char:EOLhyphen"/>tious, they may Regulat their Affairs ſo, that ſeldom any thing will happen to defeat their Deſigns.</p>
+               <p>To give particular Directions how exery one may order his Affairs to the beſt Advantage, were a difficult Task, and that which would be very tedi<g ref="char:EOLhyphen"/>ous; But that wherein I Judge People moſt frequently Err, and by which they come to fail, being a Miſcalculation as to the State of their Affairs, not truly Ballancing their Accompts, not conſidering how to proportion their Outgivings to their Incomes; this ſhall be brieſly touched, and ſome General Rules given touching their Conduct in
+<pb n="97" facs="tcp:96190:53"/> this behalf, as for their manner of Labouring buying and ſelling, and the like, I ſuppoſe they may be pret<g ref="char:EOLhyphen"/>ty expert, and ſhall therefore paſs it this being the only thing infuiſed in them by thoſe who bread them to their Reſpective Imployments.</p>
+               <p>That which frequently tends to the Impoviriſhment of many, Proceeding from their not making a Juſt Calcula<g ref="char:EOLhyphen"/>tion as to the ſtate of their Affairs, and not Ballanceing of their Accounts, as is ſaid; that which every one would take care in, is to make a Juſt Bal<g ref="char:EOLhyphen"/>lance of his Profites and Incomeings, to what he has Occaſion daily to Diſ<g ref="char:EOLhyphen"/>putſe or give out, and if he find that his outgivings be greater than what he Receives, he muſt of Neceſſity Retrinſh his Spending, and proportion it to what he gets in, or otherwiſe he cannot expect to continue in any Tol<g ref="char:EOLhyphen"/>erable Condition.</p>
+               <p>Let none think that this is a thing Impoſſible, alledging that their Out<g ref="char:EOLhyphen"/>givings
+<pb n="98" facs="tcp:96190:54"/> are already Retrinched, as much as can be,, for it has been al<g ref="char:EOLhyphen"/>ready ſhewen, that thoſe in the mean<g ref="char:EOLhyphen"/>eſt Capacity are able to ſuſtain them<g ref="char:EOLhyphen"/>ſelves, and untill their Outgivings be reduced to the loweſt Degree, they may allwiſe be Retrinched, and better to do it betimes as let it Run to too great a length, and then be Reduced to the laſt Extreamity. No doubt, when moſt People find their Condition grow worſe, they have Expectations to better it again, and for that end per<g ref="char:EOLhyphen"/>haps may take ſeveral Meaſures dif<g ref="char:EOLhyphen"/>ferent from their former Courſe of Management, but if thoſe prove like<g ref="char:EOLhyphen"/>wiſe ineffectual, he moſt conform him ſelf to ſuch a way of liveing, as may Correſpond to his preſent Condition, or otherwiſe he cannot Rationally ex<g ref="char:EOLhyphen"/>pect, but it will daily become worſe and in the end tend to his Irrepare<g ref="char:EOLhyphen"/>able Loſs.</p>
+               <p>To make a particular calculation of the Incomes or Profites, and of the
+<pb n="99" facs="tcp:96190:54"/> Expence or Diſpurſements of every dif<g ref="char:EOLhyphen"/>ferent Degree of People is impoſſible, they being ſo Various, but ſome things in the General would be conſidered.</p>
+               <p>Firſt, That every one take a par<g ref="char:EOLhyphen"/>ticular Account of his own Profit and Expences, if at the end of the Year he find the Later to exceed the for<g ref="char:EOLhyphen"/>mer, conſider wherein he has been moſt Extravagant or Negligent, and therein make amends for the Future.</p>
+               <p>
+                  <hi>2dly,</hi> It would be conſidered, that tho his Profits may Ballance his Ex<g ref="char:EOLhyphen"/>pence, yet ſeing ſome Extraordinar Accidents may happen, 'tis neceſſar that his Expence ſhould be ſome leſs than his Profits, when nothing Extra<g ref="char:EOLhyphen"/>ordinar occurs, it being conveniant as the proverb is, <hi>that ſomething be keeped for the ſore foot.</hi>
+               </p>
+               <p>
+                  <hi>3dly,</hi> His own Circumſtances at the time would be conſidered, that is to ſay, whither his Family be nomerous or few; If nomerous and conſequently requiring ſo much to ſuſtain it, that
+<pb n="100" facs="tcp:96190:55"/> it will nor readily require more, than may he go near to ſpend his whole Profits, but if his Family be in its In<g ref="char:EOLhyphen"/>fantry, that is to ſay while he has few or no Children, and Apparently will have more, he may not go ſo great a length in Spending as at other times, it being neceſſar that ſome thing be Reſerved for the growing State of his Familie, Again, when his Children come to Age, and are Capable to Work, they will be a great help to him, and conſeqently he needs not Retrinch his Diſpurſements ſo much.</p>
+               <p>And laſtly, that at all times 'tis Convenient to keep within Bounds, and never let the Disburſements exceed the Profit.</p>
+               <p>If it be alledged that this is Poſſible, for at ſome times they may meet with Diſappointments and conſiderable loſ<g ref="char:EOLhyphen"/>ſes, 'tis Anſwered theſe caſes are ex<g ref="char:EOLhyphen"/>cepted, for what I ſpake of is only in O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dinar Caſes, no Humane Endea<g ref="char:EOLunhyphen"/>vours can prevent Accidents, not provide for all Events.</p>
+               <pb n="101" facs="tcp:96190:55"/>
+               <p>But if ſome ſhould ſay that even in the common courſe of their Manage<g ref="char:EOLhyphen"/>ment, they are not able to get this done, either by the decay of their Em<g ref="char:EOLhyphen"/>ployment, or that they have never fallen in a way of Trade. To this I can ſay nothing, but that they muſt Retrench their Diſpurſements till they bring them as low as can be, and ra<g ref="char:EOLhyphen"/>ther let this be done in time, than after things come too great a length, for as the Proverb is <hi>hetter hain at the Breard as the bottom;</hi> and if they can afterward advance their Fortune they may eaſily their profits Live up to; And as to the matter of their Trade I would only ſay, deal fairly. ingeniouſly and diſcreetly with all, for as this is a duty in point of Con<g ref="char:EOLhyphen"/>ſcience, ſo is it no leſs neceſſary in Matter of Intereſt, and the chief thing that will engadge Cuſtomers: for whatever a covetous Perſon gains by fraudulent Tricks at ſome times, he is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eady to loſs much more by the
+<pb n="102" facs="tcp:96190:56"/> wound this gives to his Reputation.</p>
+               <p>How their ſpending ought to be proportioned to their Profits I ſhall touch in another place.</p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT: IV. <hi>Which Reſpects Merchants, Shopkeep<g ref="char:EOLhyphen"/>ers,</hi> &amp;c.</head>
+               <p>BOok keeping is certainly very Neceſſary to all, and without which no perſon of Buſſineſs can eaſily underſtand the State of his affairs; But above all others, it is peculiarly Uſefull for Merchants. Captain <hi>Colliſon</hi> ſays in the Preface to his Book of Book-keeping, that he looks upon a Merchant, that is not acquainted with Book keeping, to be like on that Profeſſes to be a Soldier, that knows not how to handle his Arms. I am much of his Opinion, for it is very hard, if not impoſſible, for a Morchant that underſtands not Book
+<pb n="103" facs="tcp:96190:56"/> keeping, and doth not place his Ac<g ref="char:EOLhyphen"/>compts in Method, to underſtand the ſtate of his affairs as he ought to do if he have any conſiderable buſſi<g ref="char:EOLhyphen"/>neſs, and how any Man can propor<g ref="char:EOLhyphen"/>tion his Debu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſements, or Spending to his Profits or Incomes, that under<g ref="char:EOLhyphen"/>ſtands not his own Condition, let any Perſon Judge.</p>
+               <p>In ſo far as, the Circumſtances of Merchants doth agree with theſe mentioned in the Proceeding <hi>Section,</hi> what Reſpects the one is Applicable to the other, but in many things it is more difficult for Merchants to keep an equal Poiſe in the ſtate of their Affairs, than for Mechanicks or Trades Men, for not only are they uncertain of the ſale of their Goods, but like<g ref="char:EOLhyphen"/>wiſe run many Riſques by Sea, as well as by the Riſing and falling of Mercats, the decay of ſeveral ſorts of Goods, and others that goes out of Faſhion, if not ſpeedily ſold off, be<g ref="char:EOLhyphen"/>ſides many other hazards, as bad
+<pb n="104" facs="tcp:96190:57"/> Debtors, danger of being Overſeen in buying and the like.</p>
+               <p>All theſe things being conſidered, 'tis no ſmall difficulty for a Merchant to guard againſt ſo many dangers and keep his Stock intire, not to ſpeak of making profit: 'Twill therefore be very hard to lay down any certain Method by which they may ſuſtain themſelves and Families and keep their Stocks intire: Howbeit provid<g ref="char:EOLhyphen"/>ed theſe following Rules be obſerved I think there will be no great danger, <hi>Viz.</hi>
+               </p>
+               <p>
+                  <hi>Firſt,</hi> That an exact Journal of all their Barganings be placed in their Books, and the ſame Tranſmitted to their Legers and ballanced in due Form; This gives exceeding great ſatisfaction to behold how every thing is diſpoſed of, eſpecially if they meet with diſapointments, and when their Endeavours ſucceed well, it directs them yet further towards the Improve<g ref="char:EOLhyphen"/>ment of their Stocks, and in fine let
+<pb n="105" facs="tcp:96190:57"/> their Condition be proſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous or o<g ref="char:EOLhyphen"/>therwiſe, they at one glance will ſee their Condition, and conſequently may know how to take M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſures ac<g ref="char:EOLhyphen"/>cordingly.</p>
+               <p>
+                  <hi>2dly.</hi> That they be not do raſh in barganing or buying any quantity of Goods they are not throughly akill'd in, or knows not how to diſpoſe of.</p>
+               <p>
+                  <hi>3dly.</hi> That they Riſqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not too much of their Stocks where there is any eminent danger tho there may likewiſe be great proſpect of Gain. Be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>or one ſhould regrate his want of a conſiderable Gain, that he might have had, provided he had beſtowed a great ſum on ſuch a Commodi<g ref="char:EOLhyphen"/>ty, as have to ſay Iventured my whole Stock upon a very promiſing Bargain, but alas it miſgive and I'm totaly Ru<g ref="char:EOLhyphen"/>ined.</p>
+               <p>
+                  <hi>4thly.</hi> That they be cautious in buying any ſort of Goods that may ſoon decay or go out of faſhion, un<g ref="char:EOLhyphen"/>leſs they know how to diſpoſe of them ſpeedily.</p>
+               <pb n="106" facs="tcp:96190:58"/>
+               <p>But beſides all this, there is ſome<g ref="char:EOLhyphen"/>thing elſe to be adverted, for if a Per<g ref="char:EOLhyphen"/>ſon live higher than his Stock can af<g ref="char:EOLhyphen"/>ford, it will deminiſh by degrees and he at laſt be reduced to a low Condi<g ref="char:EOLhyphen"/>tion. 'Tis therefore abſolutly neceſ<g ref="char:EOLhyphen"/>ſar for all ſorts of People to Proporti<g ref="char:EOLhyphen"/>on their ſpending to their profits, that is to ſay that the former may not ex<g ref="char:EOLhyphen"/>ceed the Latter.</p>
+               <p>But becauſe it may be a Queſtion (and that none of the leaſt) what part of his Stock or Profits may a man ſpend, ſo as his Stock may not be weſted or he rendered incapable to provide for his Children as fit for one of his degree or quality.</p>
+               <p>At firſt view one would think he may ſpend his whole Profits, But there is a great many things to be conſidered in this, for as was obſerved in the preceeding <hi>Section,</hi> there muſt be Reſpect had in this to the preſent ſtate of his Family. If it be upon the growing hand, than may he not go the
+<pb n="107" facs="tcp:96190:58"/> whole length in Spending that his Profits for the time may bear, for in caſe he ſhould be obliged to Retrinch his Spending, or at leaſt be more ſtraitned to mantain his Family upon the ſame allowance, when it becomes more Numerous; and likewiſe that there is a great many Accidents that commonly fall out, which will require Money beſides what is needed in the common Courſe of his Deburſements, which ſomething moſt be Reſerved for, otherwiſe his Stock will be De<g ref="char:EOLhyphen"/>miniſhed by the De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>raying ſuch Extra<g ref="char:EOLhyphen"/>ordinar Expences, beſide ſeveral other things of which I ſhall ſpeak more particularly in the next <hi>Section.</hi>
+               </p>
+            </div>
+            <div n="5" type="section">
+               <pb n="108" facs="tcp:96190:59"/>
+               <head>SECT: V. <hi>Which Reſpects Merchants and Trades-Men together,</hi> &amp;c.</head>
+               <p>HAving ſaid ſomething concern<g ref="char:EOLhyphen"/>ing People of thoſe Imploy<g ref="char:EOLhyphen"/>ments ſeperatly, in the Pro<g ref="char:EOLhyphen"/>ceeding <hi>Sections,</hi> And ſeing what agrees to the one Reſpects the other likewiſe in many things, I ſhall more particularly in this place ſuch what Relates to the daily Deburſements.</p>
+               <p>When I mention Merchants and Trades-men, it is not only to be thought I Reſtrict it to theſe Allener<g ref="char:EOLhyphen"/>ly. But that all others of Inferiour quality are likewiſe to be underſtood under that Denomination.</p>
+               <p>It was formerly ſhewed, that a per<g ref="char:EOLhyphen"/>ſon who can Earn ſix Pence a Day, may live Comfortably upon the ſame,</p>
+               <p>It is therefore plain, that whoever
+<pb n="109" facs="tcp:96190:59"/> can earn more may Live at leaſt as well upon the Product of his Labour, provided he conform his way of live<g ref="char:EOLhyphen"/>ing, to what he is able to baer forth.</p>
+               <p>It was form<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rly Remarked. That the ſole or principal occaſion of Peo<g ref="char:EOLhyphen"/>ple's Runing themſelves a Ground, proceedeth from their not proportion<g ref="char:EOLhyphen"/>ing their Deburſements to their In<g ref="char:EOLhyphen"/>comes or profits, and that perhaps not ſo much from their Total neglect of this, as from their not Conſidering it throughly, for one that can Earn 8 or 10 pence a Day, or what elſe you pleaſe, moſt not in his Ordinar Courſe of Liveing, ſpend his whole Day's profit each Day, but he ought to con<g ref="char:EOLhyphen"/>ſider, Accidents may frequently befall which may not only Incapacitat him to Earn his uſual Wages, but may likewiſe require even more than Ordi<g ref="char:EOLhyphen"/>nary De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urſements. Therefore, he would alwiſe keep with in bounds, and Reſerve ſomething for Extraordinary Occaſions.</p>
+               <pb n="110" facs="tcp:96190:60"/>
+               <p>How much of his daily Profits ought to be reſerved for Exterordinary occa<g ref="char:EOLhyphen"/>ſions, muſt likewiſe be proportioned to the Circumſtances of the Party, that is to ſay if his difficultys be apparent<g ref="char:EOLhyphen"/>ly upon the decreaſing hand; That which is to be Reſerved for Extraor<g ref="char:EOLhyphen"/>dinary Occaſions may be leſs; But if they ſeem to Encreaſe, it would be be the more. However, I think one 5th part may be a good Medium, if his Circumſtances be not very extra<g ref="char:EOLhyphen"/>ordinary.</p>
+               <p>So much concerning ſuch as have no Stock, and live only upon the pro<g ref="char:EOLhyphen"/>duct of their Labour.</p>
+               <p>The next ſort of People that are to be ſpoke off, are ſuch as have but ſmall Stock, yet by the frequent changeing of it, and them having a con<g ref="char:EOLhyphen"/>ſtant Trade, may Reckon upou ſome certain daily profit, Proportionably far exceeding what they could make, if
+<pb n="111" facs="tcp:96190:60"/> their Stocks were any thing conſider<g ref="char:EOLhyphen"/>able, of this Sort may be reckoned Ink-keepers. Retailers of Liquors, ſmall Shop-Keepers, Hookſters and the like.</p>
+               <p>Tho this ſort of People can not certainly know their Daily or Weekly profits, yet after ſome times Experi<g ref="char:EOLhyphen"/>ence they may gueſs pretty near what yearly Profits they can make, and muſt proportion their outgivings to the ſame; That is to ſay in like man<g ref="char:EOLhyphen"/>ner as the Tradeſmen above-mention<g ref="char:EOLhyphen"/>ed, <hi>Viz.</hi> ſtill to reſerve about a 5th or 6th part of it for extraordinary occa<g ref="char:EOLhyphen"/>ſions.</p>
+               <p>Thoſe whoſe Stocks are Conſider<g ref="char:EOLhyphen"/>able, muſt obſerve an other Method in their ſpending, becauſe they will not ſo frequently get the ſame beſtow<g ref="char:EOLhyphen"/>ed, and becauſe of the many Riſques and hazards they run, as was former<g ref="char:EOLhyphen"/>ly mentioned, they cannot well Reck<g ref="char:EOLhyphen"/>on upon any certain profit beyond the ordinary Intereſt of their Stocks,
+<pb n="112" facs="tcp:96190:61"/> and conſequently ought to proportion their ſpending to the ſame<g ref="char:punc">▪</g>
+               </p>
+               <p>This perhaps may be thought too little, as certainly it is, if their Stook be ſmall. but in that Caſe they are partly to be conſidered as the inkeep<g ref="char:EOLhyphen"/>ers, <hi>&amp;c.</hi> above mentioned, but if their Stocks be conſiderable it will be ſufficient, and if their Condition can allow of more, their Stocks will Encreaſs the more ſpeedily, and con<g ref="char:EOLhyphen"/>ſequently the Intereſt thereof will be the more, to which they may alwiſe conform their ſpending.</p>
+               <p>In theſe three Claſſes, all Tradeſ<g ref="char:EOLhyphen"/>men and Trading People may bo com<g ref="char:EOLhyphen"/>prehended, and if every one would keep a particular Jurnal of his profits and Deburſments and Regulate his Af<g ref="char:EOLhyphen"/>fairs So that he doth allwiſe keep within Bounds, and know the State of his Affairs; None could ever alto<g ref="char:EOLhyphen"/>gether faill, unleſs by ſome unexpected or extraordinary Accident.</p>
+            </div>
+            <div n="7" type="section">
+               <pb n="113" facs="tcp:96190:61"/>
+               <head>SECT; VII. <hi>Which Reſpects Gentlemen,</hi> &amp;c.</head>
+               <p>HAving given ſome hints at what may be expedient in the Con<g ref="char:EOLhyphen"/>duct of ſeveral ſorts of Peo<g ref="char:EOLhyphen"/>ple. as to the Regulating of their Affaris. I come in this Claſs to tuch what Reſpects Gentlemen and other Perſons of Quality, as to what Con<g ref="char:EOLhyphen"/>cerns their Living Comfortably in their ſeveral Ranks, and according to their Eſtates.</p>
+               <p>We ſhall begin with ſuch as are in publick Office, and for their Service, have either a certain Annual Sallarie, or Penſion allowed them, or ſome certain Caſual Profits or Emoloments pertaining to their Office.</p>
+               <p>Some may ſay, there is no great difficulty for ſuch People to Regulate what Concerns their manner of living,
+<pb n="114" facs="tcp:96190:62"/> And that if their Spending do not ex<g ref="char:EOLhyphen"/>ceed their Profits, think all is well enough.</p>
+               <p>In this there is a very great miſtake, for if thoſe in publick Office, ſuch as Miniſters, Officers of the Army, <hi>&amp;c.</hi> who commonly have no conſiderable Stock (beſides what they gain by their publick Service) ſhall Spend their whole Annual Revenue, how ſhall their Children be provided for, who being Bred as Gentlemens Chil<g ref="char:EOLhyphen"/>dren, cannot apply themſelves to mean Imployments, or Booriſh Drudgerie, and wanting what is neceſſar to ſup<g ref="char:EOLhyphen"/>port them, will be ready to Imbrace many Temptations, and to take Un<g ref="char:EOLhyphen"/>approveable Meaſures for their Sub<g ref="char:EOLhyphen"/>ſiſtance; If Perſons in ſuch Circum<g ref="char:EOLhyphen"/>ſtances do not lay aſide one half or thereby of their Yearly Profits, for the uſe of their Children, they will Undoubtedly Render them more Mi<g ref="char:EOLhyphen"/>ſerable than the Children of Boors or Tron-men, and no doubt the
+<pb n="115" facs="tcp:96190:62"/> Neglect of this may be one principal Cauſe of the Vulgar Opinion, that many of the Children of Miniſters, become no great Patrons of Vertue, tho at the ſame time, I beleive People takes more particular notice of them then of others, ſomething more then Ordinary being expected from their Education.</p>
+               <p>But if thoſe who Act in publick Ca<g ref="char:EOLhyphen"/>pacities, have any Stock beſides what they gain by their Service, they may Spend the Annual profits of it, as o<g ref="char:EOLhyphen"/>ther Gentlemen that have Heiteable Eſtates, And as their Stock encreaſſes by what is added to it of that which is laid aſide, gained by their publick Service, the Intereſt of it will become the greater, and conſequently able to ſupport them the better.</p>
+               <p>And as to Gentlemen who have He<g ref="char:EOLhyphen"/>ritable Eſtates, and follow no manner of vocation, but only live upon there Rents, they moſt proportion there Ex<g ref="char:EOLhyphen"/>pence to what they have to receive
+<pb n="116" facs="tcp:96190:63"/> from their Tennants; neither would they in the common Courſe of their Management Spend all that they get in, for Conſideration ought ſtill to he had to ſeveral Extraordinary Occaſi<g ref="char:EOLhyphen"/>ons, which may occaſion their Deburſ<g ref="char:EOLhyphen"/>ing of more than was expected, and alſo that they may be Diſappointed of what they ought to get in.</p>
+               <p>Some perhaps may think there is no Difficulty for ſuch as have Land Rents or other certain Annual Proſites to preſerve their Eſtates and Live Hon<g ref="char:EOLhyphen"/>eſtly, but <hi>I</hi> may Warrantably ſay, there is no leſs Art in preſerving an<g ref="char:punc">▪</g> Eſtate, than in acquiring it.</p>
+               <p>The Conduct of Gentlemen, or ſuch as have no manner of Employ<g ref="char:EOLhyphen"/>ment, but only to Husband, and Live upon their Rent, is different from any of thoſe abovementioned, for whereas the Husbandman, the Trades man, and other Labouring People, have leſs difficulty to mentain their Families, when their Children come
+<pb n="117" facs="tcp:96190:63"/> to Age than formerly, becauſe by their Labour, they are helped to ſupport the ſame, neither is it to expected, that they can provide Opulantly for them, they being in as good Condition as can be expected from thoſe of their Quali<g ref="char:EOLhyphen"/>ty, tho nothing of Conſideration be left to them, beſides their Education; and Merchants Living within Bounds, as was above propoſed their Stocks will Encreaſs, unleſs they meet with croſs Providences, and conſequently they will be in Condition to provide for their Children, but Gentlemen, not having any other way to ſupplie their Families, and provide for their Poſte<g ref="char:EOLhyphen"/>rity, but only to Husband well what they have, they muſt not go ſo great a length in Spending of their Yearly Proſits, as thoſe above mentioned: Reſpect muſt be had to the preſent State of their Families, as of all the reſt afo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eid, that is to ſay while their Families are but ſmall, they muſt Spend the leſs and as it Encreaſ<g ref="char:EOLhyphen"/>ſeth,
+<pb n="118" facs="tcp:96190:64"/> they will have the more, to Suply it.</p>
+               <p>Perhaps ſome may think, if they go not beyond their Yearly Incomes at any time, there will be no hazard but that I may ſhew how ill ground<g ref="char:EOLhyphen"/>ed this Opinion is, I ſhall make a Suppoſition, that a Gentleman of 4 or 5000 Merks a Year, having new taken up Family, keeps out a Port, ſo as to Spend a Years Rent the firſt Year, next Year having a Son or Daughter born unto him, it will Re<g ref="char:EOLhyphen"/>quire ſomething more for keeping a Nurſe, and other things neceſſaty for the Child, beſides ſome extraordinary Expences at its Birth, All which he muſt Retrinch off his laſt Years Spending or ſo much of his Stock will be Deminiſhed, next Year again, per<g ref="char:EOLhyphen"/>haps he has an other Child, which will require the like Expence to men<g ref="char:EOLhyphen"/>tain it. Thus his Family increaſſing from time to time, within 20 or 30 Years, ſeveral of his Children may be
+<pb n="119" facs="tcp:96190:64"/> Marriageable, and moſt be provided to Portions Suitable to their Quality, beſides what is given out to Edu<g ref="char:EOLhyphen"/>cate them, let any Prudent Man conſider, whither one in ſuch Circum<g ref="char:EOLhyphen"/>ſtances ſhould not farr Outſhoot him<g ref="char:EOLhyphen"/>ſelf by ſuch Conduct.</p>
+               <p>I think no Gentleman who has no other way of living, can be reckoned a good Husband, if he ſpend above an half of his Rent while his family is in its Infancy. And as it Increaſes, having <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid by what he ſaves while his Family's on the Increaſing hand, he may be in Condition to provide por<g ref="char:EOLhyphen"/>tions to his Children, Sutable to their quality.</p>
+               <p>I might proceed to make a parti<g ref="char:EOLhyphen"/>cular Calculation, ſhewing how much he might lay by each Year; As for example, the firſt year 100 <hi>Lib. Starl.</hi> the <hi>2d. 90 Lib. Starl.</hi> and ſtil leſs and leſs, as his Family Increaſes, till perhaps he could not lay by any thing
+<pb n="120" facs="tcp:96190:65"/> at all; But this being no defieult mat<g ref="char:EOLhyphen"/>ter to conceive, I only in the General would deſire every one to Conſider their own Circumſtances, and to make a Calculation of their Spending, and how they will be able to bear it forth; For as I ſaid at the Entrie of this Chapter, that which occaſions the fail<g ref="char:EOLhyphen"/>our of moſt People proceeds from their not Proportioning their deburſ<g ref="char:EOLhyphen"/>ments to their Incoms; And that Cheifly from their not throughly con<g ref="char:EOLhyphen"/>ſidering the ſame.</p>
+               <p>It will be needles to make any more inſtances of this kind, let the Annul<g ref="char:EOLhyphen"/>rent or yearly incomes of Gentlemen, be it litle or much, if they have no other way of living, but what ac<g ref="char:EOLhyphen"/>creſſes from theſe certain proſits, they muſt proportion their ſpending to the ſame, as above ſaid. <hi>viz.</hi> To ſave a<g ref="char:EOLhyphen"/>bout on half of it, while their Fami<g ref="char:EOLhyphen"/>ly's are ſmall &amp;c. And that they may the better underſtand the ſtate of their own Aſſiairs; Book-keeping is very
+<pb n="121" facs="tcp:96190:65"/> neceſſar for them to Learn, as it is likewiſe to all others, that have any Conſiderable buſines in the World.</p>
+            </div>
+            <div n="8" type="section">
+               <head>SECT. VIII. <hi>Which Reſpects the Mannagement of Publick Concerns.</hi>
+               </head>
+               <p>AS every perſon is Concerned to provide for himſelf, ſo is the Prince or Soveraign Lord con<g ref="char:EOLhyphen"/>cerned to give neceſſar orders, apoint<g ref="char:EOLhyphen"/>ing every one to his proper Poſt, for the Publick good, of thoſe under his care.</p>
+               <p>It may ſeem a peice of Arrogance for me to offer my opinion in things of this nature, or to midle in matters which concern the Government of a State; But for as much as all human Capacity is finit, things ne<g ref="char:EOLhyphen"/>ceſſar to be conſidered, my eſcape the Remembrance of the moſt Judicious,
+<pb n="122" facs="tcp:96190:66"/> I hope it ſhall be no Crime, to offer a few things which at preſent occur, with reſpect to this matter, ſome of which (ſo far as I know) have not yet come u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>der the Cognizance of the <hi>Auguſt</hi> Aſſembly, to whom I in<g ref="char:EOLhyphen"/>tend to preſent this, and as I humbly conceive may not be nuworthy of their Conſideration.</p>
+               <p>The King or Soveraign having the Overſight and Care of the whole Nation or Realm committed to his Charge, is not only obliged to Care for what Concerns the ſupport of his own Dignity and Grandure, but like<g ref="char:EOLhyphen"/>wiſe for what may moſt promot the wellfare and Proſpetity of theſe over whom he Reigns, and as in all things the means are Adepted to the end for which they are deſigned, &amp; juſt meaſures taken in effecting thereof, otherwiſe they cannot be imagined to accompliſh it; And as has been obſerv<g ref="char:EOLhyphen"/>ed, every Degree and Rank of Peo<g ref="char:EOLhyphen"/>ple above Repreſented are obliged
+<pb n="123" facs="tcp:96190:66"/> to proportion and accomodat their manner of Living, to the fund by which they are ſuported. it will not be doubted, but that certain meaſures are to be obſerved by Princes, for Re<g ref="char:EOLhyphen"/>gulating their Affairs, and that a King or Prince may ſuſtain as much prejudice, by not proportioning his Deburſments to his Revenue, as Peo<g ref="char:EOLhyphen"/>ple of mean quality may do by keep<g ref="char:EOLhyphen"/>ing out a Port above what they are able to bear forth.</p>
+               <p>The Revenue of Princes are certain Taxes and Cuſtoms upon their Sub<g ref="char:EOLhyphen"/>jects, it being muſt reaſonable, that every one according to his ability, ſhould Contribute to the ſuport of the Goverment, under which he is, that a ſufficent Force may be always in ra<g ref="char:EOLhyphen"/>dineſs to defend the Kingdom or State, from any Foreign Invaſion, and to Supr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs all inteſtain diſorder or Broils that may Happen; Nevertheles this muſt be proportioned, to what the Subjects are able to bear, otherwiſe
+<pb n="124" facs="tcp:96190:67"/> their Hearts are Aleniated, and they become uneaſie.</p>
+               <p>A Prince's greateſt Wealth and Se<g ref="char:EOLhyphen"/>curity is the Hearts of his People, for when he has this, he can want no<g ref="char:EOLhyphen"/>thing that is in their Power to grant. Neither can a People be more happy than under the Conduct of a good and Vertuous Prince, who makes it his Endeavours to make them Happy, wherefore I think it not abſurd to affirm, that the Prince and People's Intereſt is not Devided, and that both may do what in them lyes for the publick Good, ought to he the Pray<g ref="char:EOLhyphen"/>ers and Endeavours of all good Men.</p>
+               <p>Puniſhments and Rewards ought not only to be Diſpenced in Obedi<g ref="char:EOLhyphen"/>ence to Devine Authority, but in Po<g ref="char:EOLhyphen"/>lice it is neceſſar to Chaſtiſe Vice and Encourage Vertue, the Vicious per<g ref="char:EOLhyphen"/>ſon being like a Gangrin or F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſtered Member, ready to inſect the whole Body, if not timely Cuted or cut off, and a Vertuo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us perſon is no leſs profi<g ref="char:EOLhyphen"/>table
+<pb n="125" facs="tcp:96190:67"/> to a Common Wealth then the other is prejudicial thereunto.</p>
+               <p>Some think it neceſſar for Princes to bring Diſaffected perſons over to their Intereſt to heap Favours upon them, alledgeing that thoſe who are true Friends, will ſtill continue ſo, and by this means, others may be gained.</p>
+               <p>No cloubt, ſuch as are good Men, will never be ſo Diſobliged for miſſing favours, that in Juſtice they might have expected, that they will turn Enemies, but I ſhall ſcarce be perſwa<g ref="char:EOLhyphen"/>ded, that the like Fedelitly will be found in one who for ſelf ends is brought over, as in him who has a Heart Affection, and will not eaſily be brought over as the other who joins with him that bids moſt. Neither doth every one attain to ſuch a degree in Mortification, as not to entertain ſome diſguſt when he thinks himſelf hardly uſed.</p>
+               <p>Clemency is an Excellent Virtue, but Exceſs in it becomes a Fault.</p>
+               <pb n="126" facs="tcp:96190:68"/>
+               <p>The <hi>Pſalmiſt</hi> in extoling the Go<g ref="char:EOLhyphen"/>vernment of the Supream Judge, ſays, Juſtice and Mercy are the Ha<g ref="char:EOLhyphen"/>bitation or Baſſes of his Thron, and it is the Glory of Princes to eſtabliſh theit's upon the ſame Foundation.</p>
+               <p>A merciful P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ince is like an indul<g ref="char:EOLhyphen"/>gent Parent, that out of Tenderneſs to his Children, does not Correct them according to the degree of their Of<g ref="char:EOLhyphen"/>ſence, for which reaſon they become the leſs Obedient, preſuming to much on his Goodneſs.</p>
+               <p>The end of Chaſtiſing being not on<g ref="char:EOLhyphen"/>ly for puniſhment of Crimes paſt, but for Example and Terrour to Others, to prevent the like for the Future, in Correction, Reſpect would be had to the Conſequence, as well as Satisfacti<g ref="char:EOLhyphen"/>on made for the Offence Committed.</p>
+               <p>Any perſon may forgive Injuries done to himſelf, but what Reſpects a<g ref="char:EOLhyphen"/>nother, he cannot without the party's Conſent.</p>
+               <p>Juſtice ſays, give every one his
+<pb n="127" facs="tcp:96190:68"/> due, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ranſgreſions againſt GOD can<g ref="char:EOLhyphen"/>not be forgiven by Man.</p>
+               <p>Being ſtraitened in time, I ſhall only mention a few things more, which more particularly Concern the preſent State of this Kingdom.</p>
+               <p>The Genuis of People ſeem at pre<g ref="char:EOLhyphen"/>ſent to Run more upon Trade than formerly, and beſides what was for<g ref="char:EOLhyphen"/>merly ſaid on that Subject.</p>
+               <p>I humbly Conceive, it will be neſſa<g ref="char:EOLhyphen"/>ry for the greater Security of Compa<g ref="char:EOLhyphen"/>nys, or theſe that enter in a joint Trade, that it be Enacted, that who<g ref="char:EOLhyphen"/>ever has the Manadgement of other Mens Effects, ſhall be a perſon through<g ref="char:EOLhyphen"/>ly acquainted in Book-keeping, and that he poſt all his Company Tranſ<g ref="char:EOLhyphen"/>actions in ample Form; And if it can be made appear, that in one Article he hath dealt unfaithfully, let him be Doem'd worthy of Death, and accord<g ref="char:EOLhyphen"/>ingly Exicuted, or at leaſt that he ſuffer Conſiſcation of Goods.</p>
+               <p>This may ſeem too ſerve, there
+<pb n="128" facs="tcp:96190:69"/> being no proportion between the Of<g ref="char:EOLhyphen"/>fence and Puniſhment, but when 'tis Conſidered, that the Conſequences of dealing gently with ſuch Rogues, (for no better Name can I give ſuch, who deal Deceitfully towards thoſe that Credit them with their Effects) opens a Door to all manner of Fraudulent Dealing, and conſequently interups Trade, the want of which Renders this poor Nation Miſerable. It will be found as Tolerable as for a Gener<g ref="char:EOLhyphen"/>al to put to Death him that leaves his Poſt, when he is ſet to Watch the Motions of an Eney. I need not inſiſt on this, for a Word's enough to a Wiſe Man, Only I humbly Conceive, Trading in Company is Impracticable in this Kingdom, if ſome ſuch Law be not Exacted.</p>
+               <p>Law Proceſſes are very Tedious, and much complained of on that Ac<g ref="char:EOLhyphen"/>count, I am not ignorent that 'tis bet<g ref="char:EOLhyphen"/>ter to defer Juſtice, as to give Sentence Raſhly, without the neceſſar Informa<g ref="char:EOLhyphen"/>mation
+<pb n="129" facs="tcp:96190:69"/> of both parties, Nevertheleſs, I think a dozen, ſixteen, or Twenty years to long for a Cauſe to be Depend<g ref="char:EOLhyphen"/>ing, and doubts but ſome Expedient might be found for Diſcuſſing of it ſoon<g ref="char:EOLhyphen"/>er; But however it be, I think ſuch as are viſibly Litigious, and by Hook or Crook having once got Poſſeſſion of another Man's Effects, fights him with his own Weapons, and at the Latter end when obliged to reſtore the other Man his own Geer, after a long uſe of it, ought to pay the Injured party the whole Expence and Damnage that he ſuſtains at leaſt, if not to be ſurther Puniched as a Fellon or Thief, And as 'tis a Crime before GOD, to aſſiſt an Unjuſt Perſon in the wronging of his Neighbour, ſo I think an Advocat or Procurator that pleads in an Unjuſt Cauſe, where 'tis Viſible, that he can not but know it to be ſo, ought like<g ref="char:EOLhyphen"/>wiſe to be Puniſhed as Art and Part with his Cliant</p>
+               <p>Advocations and Suſpenſions are oft
+<pb n="130" facs="tcp:96190:70"/> times founded upon ſlender Grounds, and ſome times the Defender will Re<g ref="char:EOLhyphen"/>move a Cauſe from an Inferious Court, meerly to Vex and put his Creditor to Expence. I think, where the Grounds are not Pugnent in Advocations, 'tis moſt reaſonoble, that the Cauſe ſhould be Remitted to the Judge be<g ref="char:EOLhyphen"/>fore whom it was firſt Called, or ra<g ref="char:EOLhyphen"/>ther that it ſhould not be brought from before him, for according to the firſt Conſtitution of Judicatures, ſmall mat<g ref="char:EOLhyphen"/>ters were appointed for the Peoples caſe, to be Decided by Inferiour Judges.</p>
+               <p>Perhaps this Doctrine may not be agreeable to ſome of the Members of the <hi>Colledge</hi> of <hi>Juſtice,</hi> it not being uſual in Millers to wiſh Corn to go by their own Mills, but if the Wiſdom of the Parliament find it: reaſonable, ſome thing may be done therein for all that.</p>
+               <p>If a Blind Man might be permitted to Judge of Coulors, I would ſay only a ſhort Word concerning the Law it ſelf.</p>
+               <pb n="131" facs="tcp:96190:70"/>
+               <p>Our Laws I believe are as good as thoſe of our Neighbours, (tho oft Complain'd of, as not being put in Execution) but that they might be made better I nothing doubt, for who<g ref="char:EOLhyphen"/>ever conſiders from what Fountain we have Our Laws, may eaſily think they might be brought from one more Pure and Wholſome.</p>
+               <p>The Roman Laws were good, con<g ref="char:EOLhyphen"/>ſidering how they had them Tranſ<g ref="char:EOLhyphen"/>mitted from Age to Age, and from one Nation to another, the beſt Way the Wits and Learning of thoſe times could Convoy them from hand to hand, but that they come far ſhort of the Copy whence they were firſt taken, I think no Chriſtian will deny.</p>
+               <p>
+                  <hi>Moſes</hi> in his Exortation to the <hi>Iſ<g ref="char:EOLhyphen"/>raelits. Duet:</hi> IV. 6. Tells them that GOD would give them Wiſdom and Underſtanding in the ſight of all Nations which ſhould hear all theſe Statuts, and ſay ſurely this great Na<g ref="char:EOLhyphen"/>tion is a Wiſe and Underſtanding
+<pb n="132" facs="tcp:96190:71"/> People, and in the 8 Verſe, And what Nation is there that hath Statuts and Judgements ſo Righteous as all this Law which I ſet before you this Day. I believe it will not be much doubted, but that the <hi>Roman Law,</hi> and <hi>Laws</hi> of all the beſt Governed Nations in the World, are founded upon the Law delivered by <hi>Moſes,</hi> and that they have Received no Advantage by thoſe through whoſe hands they have come.</p>
+               <p>Our Modern Lawers, (as well as our Moderen Poets, that uſe the pa<g ref="char:EOLhyphen"/>gen manner of Invocation) do too much imitate the <hi>Pazens. I</hi> wiſh ſome able Lawer would begin and reform this, the Scriptures of Truth may affoord him Matter to Work upon, for as they contain a Compleat Body of Divinity, ſo do they contain an in<g ref="char:EOLhyphen"/>tire Body of Law, directing how to Diſpence Juſtice between Man and Man, as well as in things relating to the Worſhip of GOD. Why ſhhould we follow an imperpfect Copy, when we have the Original at hand.</p>
+               <p>As to the Execution of the Law, let
+<pb n="133" facs="tcp:96190:71"/> there be no partiallity, for one Offen<g ref="char:EOLhyphen"/>der fin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing favour, gives Encourage<g ref="char:EOLhyphen"/>ment to 20 Others, to preſume to do the like Offence, and think them<g ref="char:EOLhyphen"/>ſelves injured, if they meet not with the like favour.</p>
+               <p>Let inferiour Mageſtrats or Others who are to put the Laws in Execution be puniſhed for their Omiſſions, if they paſs an Offender without full Sa<g ref="char:EOLhyphen"/>tisfaction for his Offence.</p>
+               <p>This will be ſo far from being any Diſcouragement to inferiour Mage<g ref="char:EOLhyphen"/>ſtrats, that it will be a great eaſe to them, and they could with the greater Courage Execut the Laws, for as the matter ſtands, when they proceed ac<g ref="char:EOLhyphen"/>cording to Law againſt Offenders, they in ſome caſes muſt either take the prejudice of the party upon them. or allow them what favour they ask, eſ<g ref="char:EOLhyphen"/>pecially if the party ſhall afterward obtain the favour that he ſought of them from a higher Judicature, and if the Majeſtrat were to ſuffer himſelf for his Omiſſion, no Man could have
+<pb n="134" facs="tcp:96190:72"/> the Confidence to deſire a favour of him, nor the Wickedneſs to Entertain a grudge againſt him who refus'd it.</p>
+               <p>There are ſome <hi>Fourteen pence</hi> peices, and <hi>3. d</hi> half <hi>Pennys,</hi> that Creat a great Unoaſineſs to the Leidges, and oft times the poor ſuffer by it, tho ſuch as pay Summs can oblige the patty to whom he makes payment to receive them, yet when they come in ſingle Ones to poor People's Hands, they are obliged to paſs them with an Abate<g ref="char:EOLhyphen"/>ment, beſides not one in half a Paroch has Scales to Weigh them in the Country, and won't take them upon the other perſons Word. It has been thought by ſome, that as much Money has been given for Scales to Weigh that kind of Money, would have made up all the Loſs of Re-coining it. Some have like<g ref="char:EOLhyphen"/>wiſe thought that the Mannagers of the Bank would have taken it all in for the Priviledge of Coining as much Coper as the value of it, which will not be very much.</p>
+               <pb n="135" facs="tcp:96190:72"/>
+               <p>If this ſhall be thought an injur<g ref="char:EOLhyphen"/>ing, of the General of the Mint, it were to be wiſhed that the Parlia<g ref="char:EOLhyphen"/>ment ſhould lay on a Tax to make up any Loſs that would be in Re<g ref="char:EOLhyphen"/>coining of it; Better that every one ſhould bear a part, as let the Poor ſuffer.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:96190:73"/>
+            <head>READER,</head>
+            <p>BEſides Words not right Spele<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, turned Letters, pound for pounds in ſeveral places, together with other ſuch Omiſſions, which doth not marr the Senſe, take the following <hi>Errata.</hi>
+            </p>
+            <div type="part">
+               <head>ERRATA</head>
+               <p>PAge 14, line 7, for off, Read of, P. 15, l. 20, for or, R. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, P. 38, l. 6. for ſix Wheels, R. ſix Weeks, P. 29, for it was, R. it were, P. 59. l. 5, for many, R. may, P. 60, l; 12. for Others, R. Other, P. 62. l. 12, for hither, R. thither, P. 64, l. 10. for hard dozen, R. half dozen, l. 11, for Run too R. Run to, P. 65, l. 10, for to Obious, R. too Obvi<g ref="char:EOLhyphen"/>ous, P. 67. l. 4, for alongs, R. along, P. 100, l. 19, for poſſible, R. impoſſible, P. 101, l. 17, for may eaſily their Profits live up to, R. may eaſily live up to their Profits, P. 11o. l. 20. for them, R. their.</p>
+               <pb facs="tcp:96190:73"/>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
